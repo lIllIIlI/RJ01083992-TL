@@ -1,1 +1,1590 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":17,"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"Initial setting","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":108,"indent":0,"parameters":["■■■　主人公関係初期化　■■■"]},{"code":355,"indent":0,"parameters":["for(var i=41; i<=60; i++)"]},{"code":655,"indent":0,"parameters":["{ $gameActors.actor(i).gainMp(-999); }"]},{"code":118,"indent":0,"parameters":["難易度選択"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["Choose the difficulty level of the game."]},{"code":401,"indent":0,"parameters":["\\c[14] *You can change the difficulty level on"]},{"code":401,"indent":0,"parameters":["your bookshelf at home."]},{"code":102,"indent":0,"parameters":[["Normal mode","Easy mode"],-1,0,1,0]},{"code":402,"indent":0,"parameters":[0,"Normal mode"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\c[14] [Normal mode] \\c[0]"]},{"code":401,"indent":1,"parameters":["This is the difficulty level that the developer"]},{"code":401,"indent":1,"parameters":["intended."]},{"code":401,"indent":1,"parameters":["Do you want to start the game in [Normal mode]?"]},{"code":102,"indent":1,"parameters":[["yes","no"],1,-1,1,0]},{"code":402,"indent":1,"parameters":[0,"yes"]},{"code":121,"indent":2,"parameters":[134,134,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"no"]},{"code":119,"indent":2,"parameters":["難易度選択"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Easy mode"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\c[14] [Easy mode] \\c[0]"]},{"code":401,"indent":1,"parameters":["This difficulty level is for people who want to"]},{"code":401,"indent":1,"parameters":["play the game quickly."]},{"code":401,"indent":1,"parameters":["The increase in favorability and the sale price of"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["crops will be doubled."]},{"code":401,"indent":1,"parameters":["Would you like to start the game in [Easy Mode]?"]},{"code":102,"indent":1,"parameters":[["yes","no"],1,-1,1,0]},{"code":402,"indent":1,"parameters":[0,"yes"]},{"code":121,"indent":2,"parameters":[134,134,0]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"no"]},{"code":119,"indent":2,"parameters":["難易度選択"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[70,70,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":108,"indent":0,"parameters":["■■■　家畜関係初期化　■■■"]},{"code":355,"indent":0,"parameters":["for(var i= 11; i<=30; i++)"]},{"code":655,"indent":0,"parameters":["{ $gameParty.addActor(i); }"]},{"code":320,"indent":0,"parameters":[10,"-----"]},{"code":122,"indent":0,"parameters":[211,220,0,0,0]},{"code":122,"indent":0,"parameters":[6,6,0,0,1]},{"code":112,"indent":0,"parameters":[]},{"code":117,"indent":1,"parameters":[72]},{"code":122,"indent":1,"parameters":[6,6,1,0,1]},{"code":111,"indent":1,"parameters":[1,6,0,21,1]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[70,70,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":108,"indent":0,"parameters":["■■■　畑関係初期化　■■■"]},{"code":355,"indent":0,"parameters":["for(var i= 61; i<=80; i++)"]},{"code":655,"indent":0,"parameters":["{ $gameParty.addActor(i); }"]},{"code":122,"indent":0,"parameters":[201,206,0,0,0]},{"code":122,"indent":0,"parameters":[6,6,0,0,1]},{"code":112,"indent":0,"parameters":[]},{"code":117,"indent":1,"parameters":[60]},{"code":122,"indent":1,"parameters":[6,6,1,0,1]},{"code":111,"indent":1,"parameters":[1,6,0,21,1]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[70,70,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":108,"indent":0,"parameters":["■■■　ペット関係初期化　■■■"]},{"code":355,"indent":0,"parameters":["for(var i= 31; i<=33; i++)"]},{"code":655,"indent":0,"parameters":["{ $gameParty.addActor(i); }"]},{"code":122,"indent":0,"parameters":[211,220,0,0,0]},{"code":122,"indent":0,"parameters":[6,6,0,0,1]},{"code":112,"indent":0,"parameters":[]},{"code":122,"indent":1,"parameters":[211,220,0,0,0]},{"code":117,"indent":1,"parameters":[492]},{"code":122,"indent":1,"parameters":[6,6,1,0,1]},{"code":111,"indent":1,"parameters":[1,6,0,3,3]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[70,70,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":108,"indent":0,"parameters":["■■■　各種店舗 初期化　■■■"]},{"code":108,"indent":0,"parameters":["▼アレイシャの店作成-------------------------------------"]},{"code":356,"indent":0,"parameters":["SupponSS makeShop toushi 0"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 341 221"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 342 222"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 343 223"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 344 224"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 345 225"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 346 226"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 348 228"]},{"code":356,"indent":0,"parameters":["SupponSS addItem toushi 152 232"]},{"code":122,"indent":0,"parameters":[221,221,0,0,1]},{"code":122,"indent":0,"parameters":[222,222,0,0,0]},{"code":122,"indent":0,"parameters":[223,223,0,0,0]},{"code":122,"indent":0,"parameters":[224,224,0,0,0]},{"code":122,"indent":0,"parameters":[225,225,0,0,1]},{"code":122,"indent":0,"parameters":[226,226,0,0,1]},{"code":122,"indent":0,"parameters":[228,228,0,0,1]},{"code":108,"indent":0,"parameters":["▼魔獣牧場の店作成-------------------------------------"]},{"code":356,"indent":0,"parameters":["SupponSS makeShop omise 0"]},{"code":356,"indent":0,"parameters":["SupponSS addItem omise 163 36"]},{"code":356,"indent":0,"parameters":["SupponSS addItem omise 164 37"]},{"code":356,"indent":0,"parameters":["SupponSS addItem omise 165 38"]},{"code":356,"indent":0,"parameters":["SupponSS addItem omise 167 40"]},{"code":122,"indent":0,"parameters":[37,37,0,0,1]},{"code":122,"indent":0,"parameters":[38,38,0,0,1]},{"code":122,"indent":0,"parameters":[40,40,0,0,1]},{"code":121,"indent":0,"parameters":[33,33,0]},{"code":108,"indent":0,"parameters":["▼喫茶店作成-------------------------------------"]},{"code":356,"indent":0,"parameters":["SupponSS makeShop kissa 0"]},{"code":356,"indent":0,"parameters":["SupponSS addItem kissa 236 53"]},{"code":356,"indent":0,"parameters":["SupponSS addItem kissa 237 54"]},{"code":356,"indent":0,"parameters":["SupponSS addItem kissa 238 55"]},{"code":108,"indent":0,"parameters":["▼大工の店作成-------------------------------------"]},{"code":356,"indent":0,"parameters":["SupponSS makeShop daiku 0"]},{"code":356,"indent":0,"parameters":["SupponSS addItem daiku 225 47"]},{"code":356,"indent":0,"parameters":["SupponSS addItem daiku 226 48"]},{"code":356,"indent":0,"parameters":["SupponSS addItem daiku 227 49"]},{"code":356,"indent":0,"parameters":["SupponSS addItem daiku 228 50"]},{"code":356,"indent":0,"parameters":["SupponSS addItem daiku 229 51"]},{"code":356,"indent":0,"parameters":["SupponSS addItem daiku 221 43"]},{"code":122,"indent":0,"parameters":[43,43,0,0,1]},{"code":122,"indent":0,"parameters":[44,44,0,0,1]},{"code":122,"indent":0,"parameters":[45,45,0,0,1]},{"code":122,"indent":0,"parameters":[46,46,0,0,1]},{"code":122,"indent":0,"parameters":[47,47,0,0,1]},{"code":122,"indent":0,"parameters":[48,48,0,0,1]},{"code":122,"indent":0,"parameters":[49,49,0,0,1]},{"code":122,"indent":0,"parameters":[50,50,0,0,1]},{"code":122,"indent":0,"parameters":[51,51,0,0,1]},{"code":108,"indent":0,"parameters":["▼---------------------------"]},{"code":122,"indent":0,"parameters":[70,70,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":108,"indent":0,"parameters":["▼その他------------------------------------------------"]},{"code":355,"indent":0,"parameters":["//フラグ管理用のアクターを加入しておく"]},{"code":655,"indent":0,"parameters":["for(var i= 81; i<=93; i++)"]},{"code":655,"indent":0,"parameters":["{ $gameParty.addActor(i); }"]},{"code":355,"indent":0,"parameters":["//料理のフラグ"]},{"code":655,"indent":0,"parameters":["for(var i=0; i<60; i++)"]},{"code":655,"indent":0,"parameters":["{ $gameVariables.setValue(i+501, \"未作成\"); }"]},{"code":121,"indent":0,"parameters":[5,5,0]},{"code":121,"indent":0,"parameters":[23,23,0]},{"code":122,"indent":0,"parameters":[11,11,0,0,0]},{"code":122,"indent":0,"parameters":[22,22,0,0,0]},{"code":122,"indent":0,"parameters":[23,23,0,0,15]},{"code":122,"indent":0,"parameters":[24,24,0,0,0]},{"code":122,"indent":0,"parameters":[25,25,0,0,0]},{"code":122,"indent":0,"parameters":[30,30,0,3,3,1,2]},{"code":122,"indent":0,"parameters":[31,31,0,3,3,1,4]},{"code":122,"indent":0,"parameters":[71,71,0,0,675]},{"code":122,"indent":0,"parameters":[72,72,0,0,312]},{"code":122,"indent":0,"parameters":[179,179,0,0,6]},{"code":121,"indent":0,"parameters":[14,14,0]},{"code":122,"indent":0,"parameters":[160,160,0,4,"[0]"]},{"code":122,"indent":0,"parameters":[177,177,0,4,"[0]"]},{"code":125,"indent":0,"parameters":[0,0,300]},{"code":355,"indent":0,"parameters":["$gameMap.disableNameDisplay()"]},{"code":135,"indent":0,"parameters":[0]},{"code":108,"indent":0,"parameters":["▼ピクチャの表示優先度を設定しておく"]},{"code":408,"indent":0,"parameters":["※ピクチャ番号に準拠"]},{"code":122,"indent":0,"parameters":[1,1,0,0,1]},{"code":112,"indent":0,"parameters":[]},{"code":356,"indent":1,"parameters":["Set_Picture_Priority \\v[1] \\v[1]"]},{"code":122,"indent":1,"parameters":[1,1,1,0,1]},{"code":111,"indent":1,"parameters":[1,1,0,100,3]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[70,70,0,0,100]},{"code":221,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":100},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":4},{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":70,"variableValid":true,"variableValue":100},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["Skip the opening?"]},{"code":102,"indent":0,"parameters":[["No","Yes"],-1,-1,1,0]},{"code":402,"indent":0,"parameters":[0,"No"]},{"code":123,"indent":1,"parameters":["A",0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Yes"]},{"code":123,"indent":1,"parameters":["B",0]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":108,"indent":0,"parameters":["▼OPを見る時の処理"]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["You are a young man living in the city."]},{"code":401,"indent":0,"parameters":["I was busy with work every day."]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["You are tired of such a life,"]},{"code":401,"indent":0,"parameters":["I want to live a slow life in a place rich in"]},{"code":401,"indent":0,"parameters":["nature."]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":["I started thinking."]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["At that time, I heard this story from an"]},{"code":401,"indent":0,"parameters":["acquaintance."]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["In a rural village in a certain region,"]},{"code":401,"indent":0,"parameters":["It seems that the site of the ranch is being put"]},{"code":401,"indent":0,"parameters":["up for sale at a low price.”"]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["You thought this was an opportunity"]},{"code":401,"indent":0,"parameters":["To start a second life in the countryside"]},{"code":401,"indent":0,"parameters":["I decided to buy the ranch."]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["What kind of life awaits there?"]},{"code":401,"indent":0,"parameters":["Excited for the new days,"]},{"code":401,"indent":0,"parameters":["You were aiming for your own ranch."]},{"code":223,"indent":0,"parameters":[[-255,-255,-255,0],1,true]},{"code":201,"indent":0,"parameters":[0,46,0,19,6,2]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":40,"indent":null},{"code":41,"parameters":["$Carriage",5],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":40,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":41,"parameters":["$Carriage",5],"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":108,"indent":0,"parameters":["▼OPをスキップする時の処理"]},{"code":221,"indent":0,"parameters":[]},{"code":303,"indent":0,"parameters":[1,8]},{"code":122,"indent":0,"parameters":[6,6,0,0,1]},{"code":117,"indent":0,"parameters":[150]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":40,"indent":null},{"code":41,"parameters":["player",5],"indent":null},{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":40,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":41,"parameters":["player",5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":201,"indent":0,"parameters":[0,8,6,5,2,0]},{"code":117,"indent":0,"parameters":[13]},{"code":127,"indent":0,"parameters":[1,0,0,2,false]},{"code":127,"indent":0,"parameters":[3,0,0,2,false]},{"code":127,"indent":0,"parameters":[2,0,0,2,false]},{"code":128,"indent":0,"parameters":[1,0,0,3,false]},{"code":121,"indent":0,"parameters":[21,21,0]},{"code":121,"indent":0,"parameters":[11,11,0]},{"code":121,"indent":0,"parameters":[161,161,0]},{"code":121,"indent":0,"parameters":[165,165,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":8,"y":4}]}
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 1,
+    "width": 17,
+    "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "events": [null, {
+            "id": 1,
+            "name": "Initial setting",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["■■■　主人公関係初期化　■■■"]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["for(var i=41; i<=60; i++)"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["{ $gameActors.actor(i).gainMp(-999); }"]
+                        }, {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": ["難易度選択"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Choose the difficulty level of the game."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["\\c[14] *You can change the difficulty level on"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["your bookshelf at home."]
+                        }, {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [["Normal mode", "Easy mode"], -1, 0, 1, 0]
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [0, "Normal mode"]
+                        }, {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["\\c[14] [Normal mode] \\c[0]"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["This is the difficulty level that the developer"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["intended."]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["Do you want to start the game in [Normal mode]?"]
+                        }, {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [["yes", "no"], 1, -1, 1, 0]
+                        }, {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [0, "yes"]
+                        }, {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [134, 134, 1]
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [1, "no"]
+                        }, {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": ["難易度選択"]
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [1, "Easy mode"]
+                        }, {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["\\c[14] [Easy mode] \\c[0]"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["This difficulty level is for people who want to"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["play the game quickly."]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["The increase in favorability and the sale price of"]
+                        }, {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["crops will be doubled."]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["Would you like to start the game in [Easy Mode]?"]
+                        }, {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [["yes", "no"], 1, -1, 1, 0]
+                        }, {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [0, "yes"]
+                        }, {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [134, 134, 0]
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [1, "no"]
+                        }, {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": ["難易度選択"]
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [70, 70, 1, 0, 1]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 1
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["■■■　家畜関係初期化　■■■"]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["for(var i= 11; i<=30; i++)"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["{ $gameParty.addActor(i); }"]
+                        }, {
+                            "code": 320,
+                            "indent": 0,
+                            "parameters": [10, "-----"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [211, 220, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [6, 6, 0, 0, 1]
+                        }, {
+                            "code": 112,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [72]
+                        }, {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [6, 6, 1, 0, 1]
+                        }, {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [1, 6, 0, 21, 1]
+                        }, {
+                            "code": 113,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 413,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [70, 70, 1, 0, 1]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 2
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["■■■　畑関係初期化　■■■"]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["for(var i= 61; i<=80; i++)"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["{ $gameParty.addActor(i); }"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [201, 206, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [6, 6, 0, 0, 1]
+                        }, {
+                            "code": 112,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [60]
+                        }, {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [6, 6, 1, 0, 1]
+                        }, {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [1, 6, 0, 21, 1]
+                        }, {
+                            "code": 113,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 413,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [70, 70, 1, 0, 1]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 3
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["■■■　ペット関係初期化　■■■"]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["for(var i= 31; i<=33; i++)"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["{ $gameParty.addActor(i); }"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [211, 220, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [6, 6, 0, 0, 1]
+                        }, {
+                            "code": 112,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [211, 220, 0, 0, 0]
+                        }, {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [492]
+                        }, {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [6, 6, 1, 0, 1]
+                        }, {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [1, 6, 0, 3, 3]
+                        }, {
+                            "code": 113,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 413,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [70, 70, 1, 0, 1]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 4
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["■■■　各種店舗 初期化　■■■"]
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼アレイシャの店作成-------------------------------------"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS makeShop toushi 0"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 341 221"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 342 222"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 343 223"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 344 224"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 345 225"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 346 226"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 348 228"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem toushi 152 232"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [221, 221, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [222, 222, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [223, 223, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [224, 224, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [225, 225, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [226, 226, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [228, 228, 0, 0, 1]
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼魔獣牧場の店作成-------------------------------------"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS makeShop omise 0"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem omise 163 36"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem omise 164 37"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem omise 165 38"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem omise 167 40"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [37, 37, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [38, 38, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [40, 40, 0, 0, 1]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [33, 33, 0]
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼喫茶店作成-------------------------------------"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS makeShop kissa 0"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem kissa 236 53"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem kissa 237 54"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem kissa 238 55"]
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼大工の店作成-------------------------------------"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS makeShop daiku 0"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem daiku 225 47"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem daiku 226 48"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem daiku 227 49"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem daiku 228 50"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem daiku 229 51"]
+                        }, {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": ["SupponSS addItem daiku 221 43"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [43, 43, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [44, 44, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [45, 45, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [46, 46, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [47, 47, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [48, 48, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [49, 49, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [50, 50, 0, 0, 1]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [51, 51, 0, 0, 1]
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼---------------------------"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [70, 70, 1, 0, 1]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 5
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼その他------------------------------------------------"]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["//フラグ管理用のアクターを加入しておく"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["for(var i= 81; i<=93; i++)"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["{ $gameParty.addActor(i); }"]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["//料理のフラグ"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["for(var i=0; i<60; i++)"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["{ $gameVariables.setValue(i+501, \"未作成\"); }"]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [5, 5, 0]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [23, 23, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [11, 11, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [22, 22, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [23, 23, 0, 0, 15]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [24, 24, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [25, 25, 0, 0, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [30, 30, 0, 3, 3, 1, 2]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [31, 31, 0, 3, 3, 1, 4]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [71, 71, 0, 0, 675]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [72, 72, 0, 0, 312]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [179, 179, 0, 0, 6]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [14, 14, 0]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [160, 160, 0, 4, "[0]"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [177, 177, 0, 4, "[0]"]
+                        }, {
+                            "code": 125,
+                            "indent": 0,
+                            "parameters": [0, 0, 300]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["$gameMap.disableNameDisplay()"]
+                        }, {
+                            "code": 135,
+                            "indent": 0,
+                            "parameters": [0]
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼ピクチャの表示優先度を設定しておく"]
+                        }, {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": ["※ピクチャ番号に準拠"]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [1, 1, 0, 0, 1]
+                        }, {
+                            "code": 112,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": ["Set_Picture_Priority \\v[1] \\v[1]"]
+                        }, {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [1, 1, 1, 0, 1]
+                        }, {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [1, 1, 0, 100, 3]
+                        }, {
+                            "code": 113,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 413,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [60]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [70, 70, 0, 0, 100]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 100
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 4
+        }, {
+            "id": 2,
+            "name": "EV002",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 70,
+                        "variableValid": true,
+                        "variableValue": 100
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Skip the opening?"]
+                        }, {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [["No", "Yes"], -1, -1, 1, 0]
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [0, "No"]
+                        }, {
+                            "code": 123,
+                            "indent": 1,
+                            "parameters": ["A", 0]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [1, "Yes"]
+                        }, {
+                            "code": 123,
+                            "indent": 1,
+                            "parameters": ["B", 0]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼OPを見る時の処理"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You are a young man living in the city."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I was busy with work every day."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You are tired of such a life,"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I want to live a slow life in a place rich in"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["nature."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I started thinking."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["At that time, I heard this story from an"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["acquaintance."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["In a rural village in a certain region,"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["It seems that the site of the ranch is being put"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["up for sale at a low price.”"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You thought this was an opportunity"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["To start a second life in the countryside"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I decided to buy the ranch."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 1]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["What kind of life awaits there?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Excited for the new days,"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You were aiming for your own ranch."]
+                        }, {
+                            "code": 223,
+                            "indent": 0,
+                            "parameters": [[-255, -255, -255, 0], 1, true]
+                        }, {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [0, 46, 0, 19, 6, 2]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 40,
+                                            "indent": null
+                                        }, {
+                                            "code": 41,
+                                            "parameters": ["$Carriage", 5],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 41,
+                                    "parameters": ["$Carriage", 5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "B",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["▼OPをスキップする時の処理"]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 303,
+                            "indent": 0,
+                            "parameters": [1, 8]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [6, 6, 0, 0, 1]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [150]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 40,
+                                            "indent": null
+                                        }, {
+                                            "code": 41,
+                                            "parameters": ["player", 5],
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 41,
+                                    "parameters": ["player", 5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [0, 8, 6, 5, 2, 0]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [13]
+                        }, {
+                            "code": 127,
+                            "indent": 0,
+                            "parameters": [1, 0, 0, 2, false]
+                        }, {
+                            "code": 127,
+                            "indent": 0,
+                            "parameters": [3, 0, 0, 2, false]
+                        }, {
+                            "code": 127,
+                            "indent": 0,
+                            "parameters": [2, 0, 0, 2, false]
+                        }, {
+                            "code": 128,
+                            "indent": 0,
+                            "parameters": [1, 0, 0, 3, false]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [21, 21, 0]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [11, 11, 0]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [161, 161, 0]
+                        }, {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [165, 165, 0]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 4
+        }
+    ]
+}

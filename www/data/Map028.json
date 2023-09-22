@@ -1,1 +1,853 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":9,"width":17,"data":[6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6756,6780,6780,6780,6780,6780,6780,6780,6760,6752,6752,6752,6752,6752,6752,6752,6752,6776,7090,7090,7090,7090,7090,7090,7090,6768,6752,6752,6752,6752,6752,6752,6752,6752,6776,7096,7096,7096,7096,7096,7096,7096,6768,6752,6752,6752,6752,6752,6752,6752,6752,6776,3234,3220,3220,3236,4098,4084,4100,6768,6752,6752,6752,6752,6752,6752,6752,6752,6776,3216,3200,3200,3224,4080,4064,4088,6768,6752,6752,6752,6752,6752,6752,6752,6752,6776,3216,3200,3200,3224,4080,4064,4088,6768,6752,6752,6752,6752,6752,6752,6752,6752,6776,3216,3200,3200,3224,4080,4064,4088,6768,6752,6752,6752,6752,6752,6752,6752,6752,6776,3240,3228,3228,3225,4104,4092,4102,6768,6752,6752,6752,6752,6752,6752,6752,6752,6754,6772,6772,6788,3232,6786,6772,6772,6753,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6776,3244,6768,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6754,6772,6753,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,6752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4338,4324,4340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4344,4332,4342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,950,0,0,166,167,0,0,0,0,0,0,0,0,0,0,0,950,950,182,183,0,0,711,709,0,0,0,0,0,0,0,0,0,950,950,190,191,0,0,719,717,0,0,0,0,0,0,0,0,0,950,950,343,0,0,0,903,754,0,0,0,0,0,0,0,0,0,950,950,0,0,0,0,929,0,0,0,0,0,0,0,0,0,0,950,950,0,0,0,0,937,0,0,0,0,0,0,0,0,0,0,950,950,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768,768,768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768,768,768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,null,null,null,{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Open1","volume":90,"pitch":100,"pan":0}]},{"code":117,"indent":0,"parameters":[18]},{"code":201,"indent":0,"parameters":[1,256,257,258,2,2]},{"code":117,"indent":0,"parameters":[19]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":8,"y":10},{"id":5,"name":"resident","note":"<type:chr><id:12>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":261,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":341,"variableValid":false,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"chr12","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":108,"indent":0,"parameters":["<SAN_ExtendedEventPage:{"]},{"code":408,"indent":0,"parameters":["  \"trigger\":\"$gameVariables.value(352)[0] === '9' &&"]},{"code":408,"indent":0,"parameters":["             $gameVariables.value(66)     !== 12\"}>"]},{"code":117,"indent":0,"parameters":[145]},{"code":111,"indent":0,"parameters":[0,6,0]},{"code":117,"indent":1,"parameters":[146]},{"code":115,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":[""]},{"code":408,"indent":0,"parameters":["---------------------------------------------------------"]},{"code":111,"indent":0,"parameters":[1,68,0,0,0]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["[\\n[10]]"]},{"code":401,"indent":1,"parameters":["You came to visit me, right?"]},{"code":401,"indent":1,"parameters":["We welcome you♪"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["---------------------------"]},{"code":111,"indent":0,"parameters":[1,68,0,1,0]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["[\\n[10]]"]},{"code":401,"indent":1,"parameters":["After encountering \\n[9],"]},{"code":401,"indent":1,"parameters":["I hope everything is going well."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["[\\n[10]]"]},{"code":401,"indent":1,"parameters":["\\n[9] brings me happiness"]},{"code":401,"indent":1,"parameters":["He's a prince ♥"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["---------------------------"]},{"code":111,"indent":0,"parameters":[1,68,0,2,0]},{"code":111,"indent":1,"parameters":[1,213,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["[\\n[10]]"]},{"code":401,"indent":2,"parameters":["My mind and body..."]},{"code":401,"indent":2,"parameters":["All of them belong to \\n[9]."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["[\\n[10]]"]},{"code":401,"indent":2,"parameters":["Please give me your love"]},{"code":401,"indent":2,"parameters":["Please bless me♥"]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["[\\n[10]]"]},{"code":401,"indent":2,"parameters":["Sigh...♥"]},{"code":401,"indent":2,"parameters":["The happiness of conceiving and raising your child"]},{"code":401,"indent":2,"parameters":["with my own body."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["I'm savoring it♥"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["[\\n[10]]"]},{"code":401,"indent":2,"parameters":["\\n[9]...I love you♥"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":[""]},{"code":408,"indent":0,"parameters":["---------------------------------------------------------"]},{"code":117,"indent":0,"parameters":[146]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":6},null,{"id":7,"name":"True END","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":4,"pattern":1,"characterIndex":7},"list":[{"code":122,"indent":0,"parameters":[6,6,0,0,12]},{"code":117,"indent":0,"parameters":[578]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":4,"pattern":1,"characterIndex":7},"list":[{"code":123,"indent":0,"parameters":["A",1]},{"code":243,"indent":0,"parameters":[]},{"code":242,"indent":0,"parameters":[3]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":355,"indent":0,"parameters":["var path = \"ending/\"+$gameVariables.value(6);"]},{"code":655,"indent":0,"parameters":["$gameScreen.showPicture(90,path, 0, 0,0, 100,100, 255, 0);"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["Phew, I went all out shopping today."]},{"code":401,"indent":0,"parameters":["Is your luggage not heavy?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["···Are you okay?"]},{"code":401,"indent":0,"parameters":["Hehe, as expected of a proud husband, I can rely"]},{"code":401,"indent":0,"parameters":["on you ♥"]},{"code":251,"indent":0,"parameters":[]},{"code":222,"indent":0,"parameters":[]},{"code":241,"indent":0,"parameters":[{"name":"魔王魂  ピアノ37","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["It's just the two of us on a date, but what gets"]},{"code":401,"indent":0,"parameters":["us excited is"]},{"code":401,"indent":0,"parameters":["I can't help it."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["Father took care of the children today,"]},{"code":401,"indent":0,"parameters":["I'm sorry if I didn't entertain you."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["Even so...hehe"]},{"code":401,"indent":0,"parameters":["It feels like it's been a while since I've relaxed"]},{"code":401,"indent":0,"parameters":["like this."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["You can't take your eyes off your children as they"]},{"code":401,"indent":0,"parameters":["run around."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["But there is also a life without such \\rb[忙,せわ]."]},{"code":401,"indent":0,"parameters":["Man, I'm really enjoying it."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["I used to think that being rich was the greatest"]},{"code":401,"indent":0,"parameters":["happiness, but"]},{"code":401,"indent":0,"parameters":["When I met \\n[9], I realized what true happiness"]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["is."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["Having loved ones within reach"]},{"code":401,"indent":0,"parameters":["This is the happiest thing for me ♥"]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["Hehehe♥"]},{"code":401,"indent":0,"parameters":["I had a lot of fun today,"]},{"code":401,"indent":0,"parameters":["Let's go home soon."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["[\\n[10]]"]},{"code":401,"indent":0,"parameters":["My precious family is waiting for me ♥"]},{"code":234,"indent":0,"parameters":[90,[34,-17,-51,255],60,true]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["Natalie still works hard every day at her job as a"]},{"code":401,"indent":0,"parameters":["fisherman."]},{"code":401,"indent":0,"parameters":["Thanks to her, our table is full of fresh"]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["ingredients, from vegetables to fish."]},{"code":401,"indent":0,"parameters":["I'm sure the children will grow up well."]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["I'm sure my future with Natalie will be a happy"]},{"code":401,"indent":0,"parameters":["one."]},{"code":401,"indent":0,"parameters":["With this premonition in my heart, I smile with"]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["her..."]},{"code":242,"indent":0,"parameters":[1]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[30]},{"code":235,"indent":0,"parameters":[90]},{"code":222,"indent":0,"parameters":[]},{"code":244,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":3,"walkAnime":true}],"x":11,"y":8}]}
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 9,
+    "width": 17,
+    "data": [6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6756, 6780, 6780, 6780, 6780, 6780, 6780, 6780, 6760, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 7090, 7090, 7090, 7090, 7090, 7090, 7090, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 7096, 7096, 7096, 7096, 7096, 7096, 7096, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 3234, 3220, 3220, 3236, 4098, 4084, 4100, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 3216, 3200, 3200, 3224, 4080, 4064, 4088, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 3216, 3200, 3200, 3224, 4080, 4064, 4088, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 3216, 3200, 3200, 3224, 4080, 4064, 4088, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 3240, 3228, 3228, 3225, 4104, 4092, 4102, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6754, 6772, 6772, 6788, 3232, 6786, 6772, 6772, 6753, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6776, 3244, 6768, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6754, 6772, 6753, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 6752, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4338, 4324, 4340, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4344, 4332, 4342, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 189, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 921, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 0, 0, 166, 167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 182, 183, 0, 0, 711, 709, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 190, 191, 0, 0, 719, 717, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 343, 0, 0, 0, 903, 754, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 0, 0, 0, 0, 929, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 0, 0, 0, 0, 937, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 950, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 768, 768, 768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 768, 768, 768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "events": [null, null, null, null, {
+            "id": 4,
+            "name": "EV004",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [{
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Open1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [18]
+                        }, {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [1, 256, 257, 258, 2, 2]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [19]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 10
+        }, {
+            "id": 5,
+            "name": "resident",
+            "note": "<type:chr><id:12>",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 261,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 341,
+                        "variableValid": false,
+                        "variableValue": 1
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr12",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["<SAN_ExtendedEventPage:{"]
+                        }, {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": ["  \"trigger\":\"$gameVariables.value(352)[0] === '9' &&"]
+                        }, {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": ["             $gameVariables.value(66)     !== 12\"}>"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [145]
+                        }, {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [0, 6, 0]
+                        }, {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [146]
+                        }, {
+                            "code": 115,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": ["---------------------------------------------------------"]
+                        }, {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [1, 68, 0, 0, 0]
+                        }, {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["You came to visit me, right?"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["We welcome you♪"]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["---------------------------"]
+                        }, {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [1, 68, 0, 1, 0]
+                        }, {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["After encountering \\n[9],"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["I hope everything is going well."]
+                        }, {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["\\n[9] brings me happiness"]
+                        }, {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": ["He's a prince ♥"]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": ["---------------------------"]
+                        }, {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [1, 68, 0, 2, 0]
+                        }, {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [1, 213, 0, 0, 0]
+                        }, {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["My mind and body..."]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["All of them belong to \\n[9]."]
+                        }, {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["Please give me your love"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["Please bless me♥"]
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["Sigh...♥"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["The happiness of conceiving and raising your child"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["with my own body."]
+                        }, {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["I'm savoring it♥"]
+                        }, {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": ["\\n[9]...I love you♥"]
+                        }, {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": ["---------------------------------------------------------"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [146]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 1,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 6
+        }, null, {
+            "id": 7,
+            "name": "True END",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [6, 6, 0, 0, 12]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [578]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["A", 1]
+                        }, {
+                            "code": 243,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [3]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [60]
+                        }, {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": ["var path = \"ending/\"+$gameVariables.value(6);"]
+                        }, {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": ["$gameScreen.showPicture(90,path, 0, 0,0, 100,100, 255, 0);"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Phew, I went all out shopping today."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Is your luggage not heavy?"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["···Are you okay?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hehe, as expected of a proud husband, I can rely"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["on you ♥"]
+                        }, {
+                            "code": 251,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 241,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "魔王魂  ピアノ37",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["It's just the two of us on a date, but what gets"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["us excited is"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I can't help it."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Father took care of the children today,"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'm sorry if I didn't entertain you."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Even so...hehe"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["It feels like it's been a while since I've relaxed"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["like this."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You can't take your eyes off your children as they"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["run around."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["But there is also a life without such \\rb[忙,せわ]."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Man, I'm really enjoying it."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I used to think that being rich was the greatest"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["happiness, but"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["When I met \\n[9], I realized what true happiness"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["is."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Having loved ones within reach"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["This is the happiest thing for me ♥"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hehehe♥"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I had a lot of fun today,"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Let's go home soon."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[\\n[10]]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["My precious family is waiting for me ♥"]
+                        }, {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [90, [34, -17, -51, 255], 60, true]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Natalie still works hard every day at her job as a"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["fisherman."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Thanks to her, our table is full of fresh"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["ingredients, from vegetables to fish."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'm sure the children will grow up well."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'm sure my future with Natalie will be a happy"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["one."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["With this premonition in my heart, I smile with"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 1, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["her..."]
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [30]
+                        }, {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [90]
+                        }, {
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 244,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 11,
+            "y": 8
+        }
+    ]
+}

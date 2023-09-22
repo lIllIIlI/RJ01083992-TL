@@ -1,1 +1,2971 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":17,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":3,"width":20,"data":[1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,7859,7858,7858,7858,7858,7858,7858,7858,7858,7858,7858,7858,7862,1536,1536,1536,1536,1536,1536,1536,7865,7864,7864,7864,7864,7864,7864,7864,7864,7864,7864,7864,7868,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1585,1536,1536,1536,1536,1536,1536,1536,1536,1585,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1585,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1585,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,3440,3444,3468,3468,3468,3468,3468,3468,3468,3468,3468,3468,3468,3468,3468,3448,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3464,0,0,0,0,0,0,0,0,0,0,0,0,0,3456,3440,3440,3440,3440,3440,3442,3476,0,3474,3460,3460,3460,3460,3460,3460,3460,3460,3460,3460,3441,3440,3440,3440,3440,3440,3440,3464,0,3456,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3464,0,3456,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3442,3460,3441,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,3440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,250,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,243,226,227,0,242,242,68,68,66,67,66,67,0,0,0,0,0,0,0,950,243,234,235,0,250,250,76,76,74,75,74,75,0,0,0,0,0,0,0,950,251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,0,0,0,0,0,0,0,0,0,0,242,242,0,0,0,0,0,0,0,950,0,0,0,0,0,0,0,0,0,0,242,242,0,0,0,0,0,0,0,950,0,0,0,0,0,0,0,0,0,242,250,250,0,0,0,0,0,0,0,950,0,0,0,0,0,0,0,0,0,242,242,242,0,0,0,0,0,0,0,950,0,0,0,0,209,209,209,0,0,242,242,242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,887,887,887,887,887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,887,887,887,887,887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,887,887,887,887,887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,887,887,887,887,887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"Aleisha","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chr14","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":222,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[34]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Hurry up to remove the goods!"]},{"code":401,"indent":0,"parameters":["If you don't deliver by today, there will be a"]},{"code":401,"indent":0,"parameters":["penalty charge!"]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":35,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":35,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":35,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":230,"indent":0,"parameters":[60]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":35,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":35,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":35,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":213,"indent":0,"parameters":[2,6,false]},{"code":213,"indent":0,"parameters":[5,6,true]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":117,"indent":0,"parameters":[34]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Sorry, \\n[54]."]},{"code":401,"indent":0,"parameters":["Even though it's hard work, the men aren't"]},{"code":401,"indent":0,"parameters":["available today..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["That's why I would like you to help me carry my"]},{"code":401,"indent":0,"parameters":["luggage."]},{"code":401,"indent":0,"parameters":["Can I ask you a favor?"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[12,3,true]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":29,"parameters":[4],"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":39,"indent":null},{"code":44,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":44,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}],"indent":null}]},{"code":213,"indent":0,"parameters":[2,1,false]},{"code":213,"indent":0,"parameters":[5,1,true]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":36,"indent":null},{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":36,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":36,"indent":null},{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":36,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":221,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["......."]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":205,"indent":0,"parameters":[4,{"list":[{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":40,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":40,"indent":null}]},{"code":203,"indent":0,"parameters":[12,0,8,6,2]},{"code":203,"indent":0,"parameters":[2,0,7,7,8]},{"code":203,"indent":0,"parameters":[5,0,9,7,8]},{"code":222,"indent":0,"parameters":[]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Employee A]"]},{"code":401,"indent":0,"parameters":["Thank you for your help~"]},{"code":401,"indent":0,"parameters":["You're so strong, it's wonderful ♪"]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":44,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Employee B]"]},{"code":401,"indent":0,"parameters":["Brother, are you free after this?"]},{"code":401,"indent":0,"parameters":["If you'd like, let's have a meal...♥"]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":1,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":35,"indent":null},{"code":2,"indent":null},{"code":36,"indent":null},{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":35,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":36,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":1,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":117,"indent":0,"parameters":[34]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Guys, your work isn't finished yet."]},{"code":401,"indent":0,"parameters":["Get the rest of your work done quickly!"]},{"code":117,"indent":0,"parameters":[41]},{"code":213,"indent":0,"parameters":[2,7,false]},{"code":213,"indent":0,"parameters":[5,7,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Employees A and B]"]},{"code":401,"indent":0,"parameters":["Yes..."]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":29,"parameters":[4],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":29,"parameters":[4],"indent":0},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":0}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":117,"indent":0,"parameters":[34]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Jeez,"]},{"code":401,"indent":0,"parameters":["I can't let my guard down or take any chances..."]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Anyway, \\n[54] saved my life."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["I'm always indebted to you."]},{"code":401,"indent":0,"parameters":["I have to thank you somehow..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["For example...how about something like this?"]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":29,"parameters":[3],"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[3],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":221,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["(Chu...♥)"]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":13,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":13,"indent":null}]},{"code":222,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[34]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["···copper?"]},{"code":401,"indent":0,"parameters":["If \\n[54] wishes, from now on...♥"]},{"code":102,"indent":0,"parameters":[["I want more.","Together with the two people from earlier...","　 People are coming?　　"],-1,-1,1,0]},{"code":402,"indent":0,"parameters":[0,"I want more."]},{"code":123,"indent":1,"parameters":["A",0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Together with the two people from earlier..."]},{"code":123,"indent":1,"parameters":["B",0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"　 People are coming?　　"]},{"code":123,"indent":1,"parameters":["C",0]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chr14","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":123,"indent":0,"parameters":["D",0]},{"code":213,"indent":0,"parameters":[1,4,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Isn't this enough after all? \\!"]},{"code":401,"indent":0,"parameters":["Hehe, I knew it ♥"]},{"code":401,"indent":0,"parameters":["I'll give you plenty of service ♥"]},{"code":117,"indent":0,"parameters":[420]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["(It's okay if I leave the rest of the work to"]},{"code":401,"indent":0,"parameters":["those kids, right?"]},{"code":401,"indent":0,"parameters":["Today...hehe, let's have fun ♥)"]},{"code":221,"indent":0,"parameters":[]},{"code":242,"indent":0,"parameters":[1]},{"code":245,"indent":0,"parameters":[{"name":"ピストンA肌がぶつかり合う（ゆっくり）1回","volume":90,"pitch":120,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Ah ♥ \\. Ah ♥ \\. Ah ♥ \\|"]},{"code":401,"indent":0,"parameters":["Ahhh...♥! ! !　"]},{"code":246,"indent":0,"parameters":[1]},{"code":250,"indent":0,"parameters":[{"name":"大量ぶっかかけ","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[90]},{"code":251,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chr14","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":123,"indent":0,"parameters":["D",0]},{"code":213,"indent":0,"parameters":[1,5,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["If it's already \\n[54],"]},{"code":401,"indent":0,"parameters":["Can't you be satisfied with just me?"]},{"code":205,"indent":0,"parameters":[1,{"list":[{"code":20,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":20,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":20,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":20,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["If you care about those kids that much"]},{"code":401,"indent":0,"parameters":["You can do whatever you like..."]},{"code":213,"indent":0,"parameters":[12,6,true]},{"code":205,"indent":0,"parameters":[12,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":4,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":1,"indent":null},{"code":17,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["...Will you look at me properly when we're alone?"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[12,3,true]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Well then... I want you to show it with your"]},{"code":401,"indent":0,"parameters":["actions ♥"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[1,4,false]},{"code":213,"indent":0,"parameters":[12,4,true]},{"code":221,"indent":0,"parameters":[]},{"code":242,"indent":0,"parameters":[1]},{"code":245,"indent":0,"parameters":[{"name":"ピストンA肌がぶつかり合う（ゆっくり）1回","volume":90,"pitch":120,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Ah ♥ \\. Ah ♥ \\. Ah ♥ \\|"]},{"code":401,"indent":0,"parameters":["Ahhh...♥! ! !　"]},{"code":246,"indent":0,"parameters":[1]},{"code":250,"indent":0,"parameters":[{"name":"大量ぶっかかけ","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[90]},{"code":251,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"C","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chr14","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":123,"indent":0,"parameters":["D",0]},{"code":213,"indent":0,"parameters":[1,3,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Isn't it here?"]},{"code":401,"indent":0,"parameters":["Ugh...I can't wait anymore..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Well, let's do it in my room after work ♥"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[12,4,true]},{"code":117,"indent":0,"parameters":[421]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Aleisha]"]},{"code":401,"indent":0,"parameters":["Hehehe, I hope you finish your work soon."]},{"code":401,"indent":0,"parameters":["I have to blast those kids ♥"]},{"code":401,"indent":0,"parameters":["I'll make you work like a workhorse!"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[1,3,false]},{"code":213,"indent":0,"parameters":[12,6,true]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"D","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chr14","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":242,"indent":0,"parameters":[1]},{"code":117,"indent":0,"parameters":[41]},{"code":221,"indent":0,"parameters":[]},{"code":123,"indent":0,"parameters":["A",1]},{"code":123,"indent":0,"parameters":["B",1]},{"code":123,"indent":0,"parameters":["C",1]},{"code":123,"indent":0,"parameters":["D",1]},{"code":117,"indent":0,"parameters":[18]},{"code":122,"indent":0,"parameters":[23,23,0,0,18]},{"code":122,"indent":0,"parameters":[24,24,0,0,0]},{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[630]},{"code":201,"indent":0,"parameters":[0,35,17,11,2,2]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":40,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":40,"indent":null}]},{"code":117,"indent":0,"parameters":[411]},{"code":117,"indent":0,"parameters":[19]},{"code":244,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":8,"y":4},{"id":2,"name":"employee 1","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chrMob01","direction":6,"pattern":1,"characterIndex":7},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":8,"y":7},{"id":3,"name":"Luggage 1","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":248,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}],"x":9,"y":7},{"id":4,"name":"Luggage 2","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":224,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":6},{"id":5,"name":"employee 2","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chrMob01","direction":4,"pattern":1,"characterIndex":3},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":10,"y":7},null,null,null,null,null,{"id":11,"name":"rival","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chrMob01","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":0,"y":16},{"id":12,"name":"main character","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"player","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":7,"y":4}]}
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 17,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 3,
+    "width": 20,
+    "data": [1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 7859, 7858, 7858, 7858, 7858, 7858, 7858, 7858, 7858, 7858, 7858, 7858, 7862, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 7865, 7864, 7864, 7864, 7864, 7864, 7864, 7864, 7864, 7864, 7864, 7864, 7868, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1585, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 1536, 3440, 3444, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3448, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3442, 3476, 0, 3474, 3460, 3460, 3460, 3460, 3460, 3460, 3460, 3460, 3460, 3460, 3441, 3440, 3440, 3440, 3440, 3440, 3440, 3464, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3464, 0, 3456, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3442, 3460, 3441, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 3440, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 243, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 243, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 250, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 243, 226, 227, 0, 242, 242, 68, 68, 66, 67, 66, 67, 0, 0, 0, 0, 0, 0, 0, 950, 243, 234, 235, 0, 250, 250, 76, 76, 74, 75, 74, 75, 0, 0, 0, 0, 0, 0, 0, 950, 251, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 950, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 242, 0, 0, 0, 0, 0, 0, 0, 950, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 242, 0, 0, 0, 0, 0, 0, 0, 950, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 250, 250, 0, 0, 0, 0, 0, 0, 0, 950, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 242, 242, 0, 0, 0, 0, 0, 0, 0, 950, 0, 0, 0, 0, 209, 209, 209, 0, 0, 242, 242, 242, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 887, 887, 887, 887, 887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 887, 887, 887, 887, 887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 887, 887, 887, 887, 887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 887, 887, 887, 887, 887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "events": [null, {
+            "id": 1,
+            "name": "Aleisha",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr14",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [34]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hurry up to remove the goods!"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["If you don't deliver by today, there will be a"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["penalty charge!"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [2],
+                                            "indent": null
+                                        }, {
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [2],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [2],
+                                            "indent": null
+                                        }, {
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [2],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [5, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [2],
+                                            "indent": null
+                                        }, {
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [2],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [60]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [2],
+                                            "indent": null
+                                        }, {
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [2],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [2],
+                                            "indent": null
+                                        }, {
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [2],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [5, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [2],
+                                            "indent": null
+                                        }, {
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [2],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [2, 6, false]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [5, 6, true]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [34]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Sorry, \\n[54]."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Even though it's hard work, the men aren't"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["available today..."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["That's why I would like you to help me carry my"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["luggage."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Can I ask you a favor?"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [12, 3, true]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 44,
+                                            "parameters": [{
+                                                    "name": "Equip2",
+                                                    "volume": 90,
+                                                    "pitch": 100,
+                                                    "pan": 0
+                                                }
+                                            ],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 44,
+                                    "parameters": [{
+                                            "name": "Equip2",
+                                            "volume": 90,
+                                            "pitch": 100,
+                                            "pan": 0
+                                        }
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [2, 1, false]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [5, 1, true]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 19,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 19,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [5, {
+                                    "list": [{
+                                            "code": 19,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 19,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 36,
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 36,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [5, {
+                                    "list": [{
+                                            "code": 36,
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 36,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["......."]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [4, {
+                                    "list": [{
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 40,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 203,
+                            "indent": 0,
+                            "parameters": [12, 0, 8, 6, 2]
+                        }, {
+                            "code": 203,
+                            "indent": 0,
+                            "parameters": [2, 0, 7, 7, 8]
+                        }, {
+                            "code": 203,
+                            "indent": 0,
+                            "parameters": [5, 0, 9, 7, 8]
+                        }, {
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 44,
+                                            "parameters": [{
+                                                    "name": "Jump1",
+                                                    "volume": 90,
+                                                    "pitch": 100,
+                                                    "pan": 0
+                                                }
+                                            ],
+                                            "indent": null
+                                        }, {
+                                            "code": 14,
+                                            "parameters": [0, 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 44,
+                                            "parameters": [{
+                                                    "name": "Jump1",
+                                                    "volume": 90,
+                                                    "pitch": 100,
+                                                    "pan": 0
+                                                }
+                                            ],
+                                            "indent": null
+                                        }, {
+                                            "code": 14,
+                                            "parameters": [0, 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 44,
+                                    "parameters": [{
+                                            "name": "Jump1",
+                                            "volume": 90,
+                                            "pitch": 100,
+                                            "pan": 0
+                                        }
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 14,
+                                    "parameters": [0, 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 44,
+                                    "parameters": [{
+                                            "name": "Jump1",
+                                            "volume": 90,
+                                            "pitch": 100,
+                                            "pan": 0
+                                        }
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 14,
+                                    "parameters": [0, 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Employee A]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Thank you for your help~"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You're so strong, it's wonderful ♪"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [5, {
+                                    "list": [{
+                                            "code": 44,
+                                            "parameters": [{
+                                                    "name": "Jump1",
+                                                    "volume": 90,
+                                                    "pitch": 100,
+                                                    "pan": 0
+                                                }
+                                            ],
+                                            "indent": null
+                                        }, {
+                                            "code": 14,
+                                            "parameters": [0, 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 44,
+                                            "parameters": [{
+                                                    "name": "Jump1",
+                                                    "volume": 90,
+                                                    "pitch": 100,
+                                                    "pan": 0
+                                                }
+                                            ],
+                                            "indent": null
+                                        }, {
+                                            "code": 14,
+                                            "parameters": [0, 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 44,
+                                    "parameters": [{
+                                            "name": "Jump1",
+                                            "volume": 90,
+                                            "pitch": 100,
+                                            "pan": 0
+                                        }
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 14,
+                                    "parameters": [0, 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 44,
+                                    "parameters": [{
+                                            "name": "Jump1",
+                                            "volume": 90,
+                                            "pitch": 100,
+                                            "pan": 0
+                                        }
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 14,
+                                    "parameters": [0, 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Employee B]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Brother, are you free after this?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["If you'd like, let's have a meal...♥"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 35,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 36,
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 36,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [34]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Guys, your work isn't finished yet."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Get the rest of your work done quickly!"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [2, 7, false]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [5, 7, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Employees A and B]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Yes..."]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [5, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": 0
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": 0
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [34]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Jeez,"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I can't let my guard down or take any chances..."]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Anyway, \\n[54] saved my life."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'm always indebted to you."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I have to thank you somehow..."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["For example...how about something like this?"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [3],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [3],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["(Chu...♥)"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 13,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 13,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [34]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["···copper?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["If \\n[54] wishes, from now on...♥"]
+                        }, {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [["I want more.", "Together with the two people from earlier...", "　 People are coming?　　"], -1, -1, 1, 0]
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [0, "I want more."]
+                        }, {
+                            "code": 123,
+                            "indent": 1,
+                            "parameters": ["A", 0]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [1, "Together with the two people from earlier..."]
+                        }, {
+                            "code": 123,
+                            "indent": 1,
+                            "parameters": ["B", 0]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [2, "　 People are coming?　　"]
+                        }, {
+                            "code": 123,
+                            "indent": 1,
+                            "parameters": ["C", 0]
+                        }, {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        }, {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr14",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["D", 0]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 4, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Isn't this enough after all? \\!"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hehe, I knew it ♥"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'll give you plenty of service ♥"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [420]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["(It's okay if I leave the rest of the work to"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["those kids, right?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Today...hehe, let's have fun ♥)"]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "ピストンA肌がぶつかり合う（ゆっくり）1回",
+                                    "volume": 90,
+                                    "pitch": 120,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ah ♥ \\. Ah ♥ \\. Ah ♥ \\|"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ahhh...♥! ! !　"]
+                        }, {
+                            "code": 246,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "大量ぶっかかけ",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [90]
+                        }, {
+                            "code": 251,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "B",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr14",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["D", 0]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 5, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["If it's already \\n[54],"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Can't you be satisfied with just me?"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [1, {
+                                    "list": [{
+                                            "code": 20,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 20,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 20,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 20,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["If you care about those kids that much"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You can do whatever you like..."]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [12, 6, true]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [12, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 4,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["...Will you look at me properly when we're alone?"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [12, 3, true]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Well then... I want you to show it with your"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["actions ♥"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 4, false]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [12, 4, true]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "ピストンA肌がぶつかり合う（ゆっくり）1回",
+                                    "volume": 90,
+                                    "pitch": 120,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ah ♥ \\. Ah ♥ \\. Ah ♥ \\|"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ahhh...♥! ! !　"]
+                        }, {
+                            "code": 246,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "大量ぶっかかけ",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [90]
+                        }, {
+                            "code": 251,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "C",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr14",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["D", 0]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 3, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Isn't it here?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ugh...I can't wait anymore..."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Well, let's do it in my room after work ♥"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [12, 4, true]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [421]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Aleisha]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hehehe, I hope you finish your work soon."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I have to blast those kids ♥"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'll make you work like a workhorse!"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 3, false]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [12, 6, true]
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }, {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "D",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr14",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["A", 1]
+                        }, {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["B", 1]
+                        }, {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["C", 1]
+                        }, {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": ["D", 1]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [18]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [23, 23, 0, 0, 18]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [24, 24, 0, 0, 0]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [6]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [630]
+                        }, {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [0, 35, 17, 11, 2, 2]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 40,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [411]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [19]
+                        }, {
+                            "code": 244,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 4
+        }, {
+            "id": 2,
+            "name": "employee 1",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrMob01",
+                        "direction": 6,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 7
+        }, {
+            "id": 3,
+            "name": "Luggage 1",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 248,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": false
+                }
+            ],
+            "x": 9,
+            "y": 7
+        }, {
+            "id": 4,
+            "name": "Luggage 2",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 224,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 10,
+            "y": 6
+        }, {
+            "id": 5,
+            "name": "employee 2",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrMob01",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 10,
+            "y": 7
+        }, null, null, null, null, null, {
+            "id": 11,
+            "name": "rival",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrMob01",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 16
+        }, {
+            "id": 12,
+            "name": "main character",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "player",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 7,
+            "y": 4
+        }
+    ]
+}

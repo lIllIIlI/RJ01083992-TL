@@ -1,1 +1,3078 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":20,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":17,"width":17,"data":[1568,1568,1568,2976,2960,2984,1568,1568,4411,4410,4410,4410,4410,4410,4410,4410,4414,1568,1568,1568,2976,2960,2984,1568,1568,4787,4786,4786,4786,4786,4786,4786,4786,4790,1568,1568,1568,2976,2960,2984,1568,1568,4793,4792,4792,4792,4792,4792,4792,4792,4796,1568,1568,1568,3000,2988,2998,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1593,1593,1593,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,6275,6274,6278,1593,1593,1593,6275,6274,6274,6274,6274,6274,6274,6274,6274,6274,6278,6281,6280,6284,1593,1593,1593,6281,6280,6280,6280,6280,6280,6280,6280,6280,6280,6284,1568,1568,1568,2994,2980,2996,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,2976,2960,2984,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,2980,2980,2980,2961,2960,2962,2980,2980,2980,2980,2980,2980,2980,2980,2980,2980,2980,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2960,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,2988,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,1568,3233,3245,1568,3243,3233,3233,3233,3233,3233,3233,3233,3233,3233,3233,3233,3233,3233,6283,6282,6282,6282,6282,6282,6282,6282,6282,6282,6282,6282,6282,6282,6282,6282,6286,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2644,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,2624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3521,3521,3533,0,0,0,3531,3521,3521,3521,3521,3521,3521,3521,3521,3521,3521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3089,3101,0,3099,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,529,530,211,0,0,0,211,0,0,0,0,0,0,0,0,0,0,537,538,219,0,0,0,219,0,0,48,0,0,48,0,0,48,0,0,0,227,0,0,0,227,0,0,56,0,0,56,0,0,56,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,548,549,550,0,0,0,0,539,540,0,539,540,0,0,548,549,550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,102,0,102,102,102,102,102,102,102,102,102,102,102,102,102,102,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"Adele","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chr07","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":222,"indent":0,"parameters":[]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Phew..."]},{"code":401,"indent":0,"parameters":["I ended up buying more than I expected."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Sorry for making you carry your luggage."]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[-1,3,true]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["You're so strong."]},{"code":401,"indent":0,"parameters":["Hehe, that's wonderful."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["But you must be tired, right?"]},{"code":401,"indent":0,"parameters":["Let's take a little rest on the bench over there."]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":3,"indent":null},{"code":4,"indent":null},{"code":4,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":18,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":15,"parameters":[30],"indent":null},{"code":37,"indent":null},{"code":13,"indent":null},{"code":38,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[30],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":37,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":13,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":38,"indent":null}]},{"code":205,"indent":0,"parameters":[1,{"list":[{"code":4,"indent":null},{"code":4,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":17,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":16,"indent":null},{"code":15,"parameters":[30],"indent":null},{"code":37,"indent":null},{"code":13,"indent":null},{"code":38,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[30],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":37,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":13,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":38,"indent":null}]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Thank you for today."]},{"code":401,"indent":0,"parameters":["Thank you again..."]},{"code":242,"indent":0,"parameters":[2]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[1,1,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["・・・・・・! ?"]},{"code":205,"indent":0,"parameters":[1,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":18,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["That is···"]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":17,"indent":null},{"code":41,"parameters":["chrMob01",0],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":41,"parameters":["chrMob01",0],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":17,"indent":0},{"code":41,"parameters":["chrMob01",4],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":0}]},{"code":505,"indent":0,"parameters":[{"code":41,"parameters":["chrMob01",4],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[1,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":1,"indent":null},{"code":1,"indent":null},{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":205,"indent":0,"parameters":[1,{"list":[{"code":1,"indent":null},{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Ah, that...!"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[2,1,false]},{"code":213,"indent":0,"parameters":[3,1,true]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":16,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":19,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["Hmm? what?"]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Um...it's been a while..."]},{"code":401,"indent":0,"parameters":["do you remember me?"]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【woman】"]},{"code":401,"indent":0,"parameters":["Hey? Who is this lady?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["Hmm...\\! Who is it?"]},{"code":401,"indent":0,"parameters":["I don't understand?"]},{"code":250,"indent":0,"parameters":[{"name":"Jump1","volume":90,"pitch":100,"pan":0}]},{"code":213,"indent":0,"parameters":[1,1,true]},{"code":241,"indent":0,"parameters":[{"name":"魔王魂  オルゴール05","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["Who is it? Has anyone played with you before?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["I'm sorry, but I'm popular, so..."]},{"code":401,"indent":0,"parameters":["You remember everyone, right?"]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["······yes."]},{"code":117,"indent":0,"parameters":[41]},{"code":213,"indent":0,"parameters":[3,4,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【woman】"]},{"code":401,"indent":0,"parameters":["Hey, darling! Let's go!"]},{"code":401,"indent":0,"parameters":["I want you to have sex soon ♥"]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["Sorry Sorry."]},{"code":401,"indent":0,"parameters":["Just wait a little longer, honey."]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["So, uh...was it for something?"]},{"code":401,"indent":0,"parameters":["do you want to play with me?"]},{"code":250,"indent":0,"parameters":[{"name":"Cancel1","volume":100,"pitch":50,"pan":0}]},{"code":213,"indent":0,"parameters":[-1,5,true]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":1,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":17,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":29,"parameters":[6],"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":2,"indent":null},{"code":1,"indent":null},{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":213,"indent":0,"parameters":[2,1,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["Wow!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["What is it, you?"]},{"code":401,"indent":0,"parameters":["I'm against violence!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【woman】"]},{"code":401,"indent":0,"parameters":["Hey, hey darling!"]},{"code":401,"indent":0,"parameters":["Don't use me as a shield!"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":213,"indent":0,"parameters":[-1,5,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["Hey! ! !"]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["stop!"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Stop...\\n[47]."]},{"code":401,"indent":0,"parameters":["that's enough."]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":213,"indent":0,"parameters":[-1,8,true]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[4],"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":250,"indent":0,"parameters":[{"name":"Run","volume":90,"pitch":100,"pan":0}]},{"code":205,"indent":0,"parameters":[2,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【Man】"]},{"code":401,"indent":0,"parameters":["OUCH! ! !"]},{"code":250,"indent":0,"parameters":[{"name":"Run","volume":90,"pitch":100,"pan":0}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["【woman】"]},{"code":401,"indent":0,"parameters":["Ah!"]},{"code":401,"indent":0,"parameters":["Wait!"]},{"code":242,"indent":0,"parameters":[3]},{"code":117,"indent":0,"parameters":[27]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["......."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["People today..."]},{"code":401,"indent":0,"parameters":["He's my first love, whom I talked about before..."]},{"code":401,"indent":0,"parameters":["It seems like it's different from what I"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["thought..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["......."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["Sorry for creating such awkward atmosphere."]},{"code":401,"indent":0,"parameters":["Shall we go home soon?"]},{"code":117,"indent":0,"parameters":[41]},{"code":205,"indent":0,"parameters":[1,{"list":[{"code":29,"parameters":[4],"indent":null},{"code":16,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":18,"indent":null},{"code":15,"parameters":[6],"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[6],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":230,"indent":0,"parameters":[30]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":true,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["...!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["......."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["・・・・・・hic..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["[Adele]"]},{"code":401,"indent":0,"parameters":["sorry···"]},{"code":401,"indent":0,"parameters":["Just a little bit...just leave me a while..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["・・・・・・"]},{"code":242,"indent":0,"parameters":[1]},{"code":117,"indent":0,"parameters":[41]},{"code":221,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[18]},{"code":122,"indent":0,"parameters":[23,23,0,0,17]},{"code":122,"indent":0,"parameters":[24,24,0,0,0]},{"code":117,"indent":0,"parameters":[6]},{"code":201,"indent":0,"parameters":[0,35,12,7,2,2]},{"code":117,"indent":0,"parameters":[411]},{"code":117,"indent":0,"parameters":[19]},{"code":244,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":4,"y":7},{"id":2,"name":"Man","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":16,"y":10},{"id":3,"name":"woman","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"chrEV_3","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":16,"y":11},null,null]}
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 20,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 17,
+    "width": 17,
+    "data": [1568, 1568, 1568, 2976, 2960, 2984, 1568, 1568, 4411, 4410, 4410, 4410, 4410, 4410, 4410, 4410, 4414, 1568, 1568, 1568, 2976, 2960, 2984, 1568, 1568, 4787, 4786, 4786, 4786, 4786, 4786, 4786, 4786, 4790, 1568, 1568, 1568, 2976, 2960, 2984, 1568, 1568, 4793, 4792, 4792, 4792, 4792, 4792, 4792, 4792, 4796, 1568, 1568, 1568, 3000, 2988, 2998, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1593, 1593, 1593, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 6275, 6274, 6278, 1593, 1593, 1593, 6275, 6274, 6274, 6274, 6274, 6274, 6274, 6274, 6274, 6274, 6278, 6281, 6280, 6284, 1593, 1593, 1593, 6281, 6280, 6280, 6280, 6280, 6280, 6280, 6280, 6280, 6280, 6284, 1568, 1568, 1568, 2994, 2980, 2996, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 2976, 2960, 2984, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 2980, 2980, 2980, 2961, 2960, 2962, 2980, 2980, 2980, 2980, 2980, 2980, 2980, 2980, 2980, 2980, 2980, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2960, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 2988, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 1568, 3233, 3245, 1568, 3243, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 3233, 6283, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6282, 6286, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 2624, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3521, 3521, 3533, 0, 0, 0, 3531, 3521, 3521, 3521, 3521, 3521, 3521, 3521, 3521, 3521, 3521, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3089, 3101, 0, 3099, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 3089, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 529, 530, 211, 0, 0, 0, 211, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 537, 538, 219, 0, 0, 0, 219, 0, 0, 48, 0, 0, 48, 0, 0, 48, 0, 0, 0, 227, 0, 0, 0, 227, 0, 0, 56, 0, 0, 56, 0, 0, 56, 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 548, 549, 550, 0, 0, 0, 0, 539, 540, 0, 539, 540, 0, 0, 548, 549, 550, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 102, 0, 102, 102, 102, 102, 102, 102, 102, 102, 102, 102, 102, 102, 102, 102, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "events": [null, {
+            "id": 1,
+            "name": "Adele",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chr07",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [{
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [0, {
+                                    "list": [{
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Phew..."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I ended up buying more than I expected."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Sorry for making you carry your luggage."]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [-1, 3, true]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You're so strong."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hehe, that's wonderful."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["But you must be tired, right?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Let's take a little rest on the bench over there."]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 4,
+                                            "indent": null
+                                        }, {
+                                            "code": 4,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [30],
+                                            "indent": null
+                                        }, {
+                                            "code": 37,
+                                            "indent": null
+                                        }, {
+                                            "code": 13,
+                                            "indent": null
+                                        }, {
+                                            "code": 38,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [30],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 37,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 13,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 38,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [1, {
+                                    "list": [{
+                                            "code": 4,
+                                            "indent": null
+                                        }, {
+                                            "code": 4,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [30],
+                                            "indent": null
+                                        }, {
+                                            "code": 37,
+                                            "indent": null
+                                        }, {
+                                            "code": 13,
+                                            "indent": null
+                                        }, {
+                                            "code": 38,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [30],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 37,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 13,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 38,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Thank you for today."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Thank you again..."]
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [2]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 1, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["・・・・・・! ?"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [1, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["That is···"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 41,
+                                            "parameters": ["chrMob01", 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 41,
+                                    "parameters": ["chrMob01", 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 17,
+                                            "indent": 0
+                                        }, {
+                                            "code": 41,
+                                            "parameters": ["chrMob01", 4],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": 0
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 41,
+                                    "parameters": ["chrMob01", 4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [1, {
+                                    "list": [{
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [1, {
+                                    "list": [{
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ah, that...!"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [2, 1, false]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [3, 1, true]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 19,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 19,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hmm? what?"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Um...it's been a while..."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["do you remember me?"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 19,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 19,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【woman】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hey? Who is this lady?"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hmm...\\! Who is it?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I don't understand?"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Jump1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [1, 1, true]
+                        }, {
+                            "code": 241,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "魔王魂  オルゴール05",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Who is it? Has anyone played with you before?"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'm sorry, but I'm popular, so..."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["You remember everyone, right?"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["······yes."]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [3, 4, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【woman】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hey, darling! Let's go!"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I want you to have sex soon ♥"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Sorry Sorry."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Just wait a little longer, honey."]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["So, uh...was it for something?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["do you want to play with me?"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Cancel1",
+                                    "volume": 100,
+                                    "pitch": 50,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [-1, 5, true]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 17,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 14,
+                                            "parameters": [0, 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 1,
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 14,
+                                    "parameters": [0, 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [2, 1, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Wow!"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["What is it, you?"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["I'm against violence!"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【woman】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hey, hey darling!"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Don't use me as a shield!"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 19,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 19,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [-1, 5, false]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Hey! ! !"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["stop!"]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Stop...\\n[47]."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["that's enough."]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [-1, 8, true]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Run",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [2, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 14,
+                                            "parameters": [0, 0],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 14,
+                                    "parameters": [0, 0],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【Man】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["OUCH! ! !"]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Run",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [3, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 2,
+                                            "indent": null
+                                        }, {
+                                            "code": 39,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 2,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["【woman】"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Ah!"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Wait!"]
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [3]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [27]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["......."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["People today..."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["He's my first love, whom I talked about before..."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["It seems like it's different from what I"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["thought..."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["......."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Sorry for creating such awkward atmosphere."]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Shall we go home soon?"]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [1, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 16,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 18,
+                                            "indent": null
+                                        }, {
+                                            "code": 15,
+                                            "parameters": [6],
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 15,
+                                    "parameters": [6],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [30]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 29,
+                                            "parameters": [5],
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": true
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [5],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [-1, {
+                                    "list": [{
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 3,
+                                            "indent": null
+                                        }, {
+                                            "code": 29,
+                                            "parameters": [4],
+                                            "indent": null
+                                        }, {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": false
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 3,
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [{
+                                    "code": 29,
+                                    "parameters": [4],
+                                    "indent": null
+                                }
+                            ]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [30]
+                        }, {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [{
+                                    "name": "Equip2",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["...!"]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["......."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["・・・・・・hic..."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["[Adele]"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["sorry···"]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["Just a little bit...just leave me a while..."]
+                        }, {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": ["", 0, 0, 2]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [""]
+                        }, {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": ["・・・・・・"]
+                        }, {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [1]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [41]
+                        }, {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [18]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [23, 23, 0, 0, 17]
+                        }, {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [24, 24, 0, 0, 0]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [6]
+                        }, {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [0, 35, 12, 7, 2, 2]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [411]
+                        }, {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [19]
+                        }, {
+                            "code": 244,
+                            "indent": 0,
+                            "parameters": []
+                        }, {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 4,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 7
+        }, {
+            "id": 2,
+            "name": "Man",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 4,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 16,
+            "y": 10
+        }, {
+            "id": 3,
+            "name": "woman",
+            "note": "",
+            "pages": [{
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "chrEV_3",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [{
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [{
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 4,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 16,
+            "y": 11
+        }, null, null]
+}
