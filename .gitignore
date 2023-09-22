@@ -1,0 +1,12 @@
+#Ignore all files
+/**
+#Except
+!/.gitignore
+!/www/
+!/www/data/
+!/www/data/**
+!/www/js/
+!/www/js/**
+
+#Filter out the .js again
+*.js
