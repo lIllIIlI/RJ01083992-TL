@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 5,
-        "description": "[Spring Seeds] You can harvest onions by sowing\nthem in the field.\n5 days until harvest.",
+        "description": "[Spring Seeds] You can harvest onions by sowing them in\nthe field.\n5 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 5,
-        "description": "[Spring Seeds] You can harvest tomatoes by sowing\nthem in the field.\n7 days until harvest.",
+        "description": "[Spring Seeds] You can harvest tomatoes by sowing them\nin the field.\n7 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 5,
-        "description": "[Spring Seeds] You can harvest cabbage by sowing\nthem in the field.\n9 days until harvest.",
+        "description": "[Spring Seeds] You can harvest cabbage by sowing them\nin the field.\n9 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 5,
-        "description": "[Spring Seeds] You can harvest asparagus by sowing\nin the field.\n10 days until harvest.",
+        "description": "[Spring Seeds] You can harvest asparagus by sowing in\nthe field.\n10 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 5,
-        "description": "[Spring Seeds] You can harvest strawberries by\nsowing them in the field.\n6 days until harvest.",
+        "description": "[Spring Seeds] You can harvest strawberries by sowing\nthem in the field.\n6 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 5,
-        "description": "[Summer Seeds] You can harvest cucumbers by sowing\nthem in the field.\n6 days until harvest.",
+        "description": "[Summer Seeds] You can harvest cucumbers by sowing them\nin the field.\n6 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -165,7 +165,7 @@
     {
         "id": 7,
         "atypeId": 5,
-        "description": "[Summer Seeds] You can harvest eggplants by sowing\nthem in the field.\n7 days until harvest.",
+        "description": "[Summer Seeds] You can harvest eggplants by sowing them\nin the field.\n7 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 5,
-        "description": "[Summer Seeds] You can harvest watermelons by\nsowing them in the field.\n12 days until harvest.",
+        "description": "[Summer Seeds] You can harvest watermelons by sowing\nthem in the field.\n12 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 5,
-        "description": "[Summer Seed] You can harvest corn by sowing it in\nthe field.\n8 days until harvest.",
+        "description": "[Summer Seed] You can harvest corn by sowing it in the\nfield.\n8 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "atypeId": 5,
-        "description": "[Summer Seeds] You can harvest melons by sowing\nthem in the field.\n14 days until harvest.",
+        "description": "[Summer Seeds] You can harvest melons by sowing them in\nthe field.\n14 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -273,7 +273,7 @@
     {
         "id": 11,
         "atypeId": 5,
-        "description": "[Autumn Seeds] You can harvest potatoes by sowing\nthem in the field.\n4 days until harvest.",
+        "description": "[Autumn Seeds] You can harvest potatoes by sowing them\nin the field.\n4 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -300,7 +300,7 @@
     {
         "id": 12,
         "atypeId": 5,
-        "description": "[Autumn Seeds] You can harvest carrots by sowing\nthem in the field.\n8 days until harvest.",
+        "description": "[Autumn Seeds] You can harvest carrots by sowing them\nin the field.\n8 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -327,7 +327,7 @@
     {
         "id": 13,
         "atypeId": 5,
-        "description": "[Autumn Seeds] You can harvest pumpkins by sowing\nthem in the field.\n10 days until harvest.",
+        "description": "[Autumn Seeds] You can harvest pumpkins by sowing them\nin the field.\n10 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -354,7 +354,7 @@
     {
         "id": 14,
         "atypeId": 5,
-        "description": "[Autumn Seeds] You can harvest sweet potatoes by\nsowing them in the field.\n4 days until harvest.",
+        "description": "[Autumn Seeds] You can harvest sweet potatoes by sowing\nthem in the field.\n4 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -408,7 +408,7 @@
     {
         "id": 16,
         "atypeId": 5,
-        "description": "[Winter Seeds] You can harvest radish by sowing in\nthe field.\n9 days until harvest.",
+        "description": "[Winter Seeds] You can harvest radish by sowing in the\nfield.\n9 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -435,7 +435,7 @@
     {
         "id": 17,
         "atypeId": 5,
-        "description": "[Winter Seeds] You can harvest broccoli by sowing\nin the field.\n10 days until harvest.",
+        "description": "[Winter Seeds] You can harvest broccoli by sowing in\nthe field.\n10 days until harvest.",
         "etypeId": 2,
         "traits": [
             {
@@ -462,7 +462,7 @@
     {
         "id": 18,
         "atypeId": 5,
-        "description": "[Winter Seeds] You can harvest green onions by\nsowing them in the field.\n7 days until harvest.",
+        "description": "[Winter Seeds] You can harvest green onions by sowing\nthem in the field.\n7 days until harvest.",
         "etypeId": 2,
         "traits": [
             {

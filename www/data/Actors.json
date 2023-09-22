@@ -940,7 +940,7 @@
         "maxLevel": 99,
         "name": "Claire",
         "nickname": "Claire",
-        "note": "<Job: village chief><Age: 29 years old>\n<prf1: A woman who serves as the head of a\nmountain village. She is a serious hard worker. >\n<prf2: When she was held by \\n[1], she realized\nher true pleasure for the first time. She is\nconfused as she realizes that she is attracted to\n\\n[1].  >\n<prf3: \\n[1] and I are happy every day. She feels\nsupreme happiness in having her body desired.\ndecided to devote her life to her beloved husband.\n>\n<like: eggs, alcohol, fruits>\n<hate: fish>",
+        "note": "<job: Village Chief><age: 29 years old>\n<prf1: A woman who serves as the head of a mountain\nvillage. She is a serious hard worker. >\n<prf2: When she was held by \\n[1], she realized her\ntrue pleasure for the first time. She is confused as\nshe realizes that she is attracted to \\n[1]. >\n<prf3: \\n[1] and I are happy every day. She feels\nsupreme happiness having her body desired and decide to\ndevote her life to her beloved husband. >\n<like: eggs, alcohol, fruits>\n<hate: fish>",
         "profile": ""
     },
     {
@@ -963,7 +963,7 @@
         "maxLevel": 99,
         "name": "Lorna",
         "nickname": "Lorna",
-        "note": "<Job: Village Girl><Age: 1?years>\n<prf1: Claire's daughter. She says she has rarely\nspoken to younger men and admires her \"her\nbrother\". >\n<prf2: She was attracted to \\n[1]'s personality\nand decided to have her child. Although her body\nis still immature, it seems that her sensitivity\nis not bad. >\n<prf3: She feels the happiest of being married to\nthe person to whom she gave her virginity. Her\nimmature body has completely turned into a\n``woman'' and she is looking forward to being\ninvited. >\n<like: fruits/sweets>\n<hate: alcohol>",
+        "note": "<job: Village Girl><age: 13 years old>\n<prf1: Claire's daughter. She says she has rarely\nspoken to younger men and admires her \"her brother\". >\n<prf2: She was attracted to \\n[1]'s personality and\ndecided to have her child. Although her body is still\nimmature, it seems that her sensitivity is not bad. >\n<prf3: She feels the happiest of being married to the\nperson to whom she gave her virginity. Her immature\nbody has completely turned into a ``woman'' and she is\nlooking forward to being invited. >\n<like: Fruits, sweets>\n<hate: Alcohol>",
         "profile": ""
     },
     {
@@ -986,7 +986,7 @@
         "maxLevel": 99,
         "name": "Mira",
         "nickname": "Mira",
-        "note": "<Job: Doctor><Age:21 years old>\n<prf1:A female doctor who runs a clinic in a\nmountain village. She studied medicine at a school\nin the city, and various things brought her to the\nvillage. has known Isabel since her student days.\n>\n<prf2: She didn't want to have a baby because she\nprioritized her job as a doctor, but as she spent\nmore time with \\n[1], she began to desire to have\na body with \\n[1]. she is concerned about her\nsmall breasts and is researching bust-enhancing\nexercises. >\n<prf3: She still feels dreamy about being married\nto the man she loves. The happiest night is\nsleeping in the same bed as \\n[1]. Of course,\nbefore going to sleep, I don't forget about my\nhusband's life. >\n<like: vegetables, rice, fish>\n<hate: raw food/animal hair>",
+        "note": "<job: Doctor><age: 21 years old>\n<prf1: A female doctor who runs a clinic in a mountain\nvillage. She studied medicine at a school in the city,\nand various things brought her to the village. has\nknown Isabel since her student days. >\n<prf2: She didn't want to have a baby because she\nprioritized her job as a doctor, but as she spent more\ntime with \\n[1], she began to desire to have a body\nwith \\n[1]. she is concerned about her small breasts\nand is researching bust-enhancing exercises. >\n<prf3: She still feels dreamy about being married to\nthe man she loves. The happiest night is sleeping in\nthe same bed as \\n[1]. Of course, before going to\nsleep, I don't forget about my husband's life. >\n<like: vegetables, rice, fish>\n<hate: raw food, animal fur>",
         "profile": ""
     },
     {
@@ -1009,7 +1009,7 @@
         "maxLevel": 99,
         "name": "Evie",
         "nickname": "Evie",
-        "note": "<Job: Livestock Trader (apprentice)> <Age: 19\nyears old>\n<prf1: A girl who runs a livestock business. She\nis energetic and often gets scolded for being too\nloud. >\n<prf2: Before she knew it, she began to think of\n\\n[1] as a man. I'm glad that her first partner\nwas \\n[1]. she is considering changing her tone to\nbe more feminine. >\n<prf3:\\n[1] and I savor the happiness of being\ntogether every day. I am struggling with having\nchildren, raising children, and working in order\nto be a good wife for my girlfriend. is proud of\nher virility as much as her husband's male\ncentaur. >\n<like: milk/animal hair/egg>\n<hate: mushroom>",
+        "note": "<job: Livestock trader (apprentice)> <age: 19 years\nold>\n<prf1: A girl who runs a livestock business. She is\nenergetic and often gets scolded for being too loud. >\n<prf2: Before she knew it, she began to think of \\n[1]\nas a man. I'm glad that her first partner was \\n[1].\nshe is considering changing her tone to be more\nfeminine. >\n<prf3: \\n[1] and I savor the happiness of being\ntogether every day. I am struggling with having\nchildren, raising children, and working in order to be\na good wife for my girlfriend. is proud of her virility\nas much as her husband's male centaur. >\n<like: milk, animal fur, egg>\n<hate: mushroom>",
         "profile": ""
     },
     {
@@ -1032,7 +1032,7 @@
         "maxLevel": 99,
         "name": "Grace",
         "nickname": "Grace",
-        "note": "<Job: Livestock Trader><Age:68 years old>\n<prf1: Livestock dealer. Evie's grandmother.\nAlthough she is strict in raising her grandson to\nbecome a full-fledged heir, she is actually a\ncaring and kind woman. >\n<prf2: Livestock dealer. Evie's grandmother.\nAlthough she is strict in raising her grandson to\nbecome a full-fledged heir, she is actually a\ncaring and kind woman. >\n<prf3: Livestock dealer. Evie's grandmother.\nAlthough she is strict in raising her grandson to\nbecome a full-fledged heir, she is actually a\ncaring and kind woman. >\n<like: milk, animal hair, alcohol, fish>\n<hate: sweets>",
+        "note": "<job: Livestock trader><age: 68 years old>\n<prf1: Livestock dealer. Evie's grandmother. Although\nshe is strict in raising her granddaughter to become a\nfull-fledged heir, she is actually a caring and kind\nwoman. >\n<prf2: Livestock dealer. Evie's grandmother. Although\nshe is strict in raising her granddaughter to become a\nfull-fledged heir, she is actually a caring and kind\nwoman. >\n<prf3: Livestock dealer. Evie's grandmother. Although\nshe is strict in raising her granddaughter to become a\nfull-fledged heir, she is actually a caring and kind\nwoman. >\n<like: milk, animal fur, alcohol, fish>\n<hate: sweets>",
         "profile": ""
     },
     {
@@ -1055,7 +1055,7 @@
         "maxLevel": 99,
         "name": "Iris",
         "nickname": "Iris",
-        "note": "<Job: Yorozuya Clerk><Age:18 years old>\n<prf1: The eldest daughter of the daily\nnecessities store \"Yorozuya\". She is shy and not\ngood at serving customers. >\n<prf2: Attracted by \\n[1]'s gentle temperament, he\nagreed to have a baby with her. I'm starting to\nbecome more and more aware of \\n[1] as I overlap\nher body. >\n<prf3: Days of enjoying the honeymoon with her\nbeloved husband. she is willing to offer her body\nwhenever \\n[1] wants. she recently started writing\nerotic novels based on her real-life experiences.\n>\n<like: sweets/alcohol>\n<hate: spicy food>",
+        "note": "<job: Yorozuya clerk><age: 18 years old>\n<prf1: The eldest daughter of the daily necessities\nstore \"Yorozuya\". She is shy and not good at serving\ncustomers. >\n<prf2: Attracted by \\n[1]'s gentle temperament, he\nagreed to have a baby with her. I'm starting to become\nmore and more aware of \\n[1] as I overlap her body. >\n<prf3: Days of enjoying the honeymoon with her beloved\nhusband. she is willing to offer her body whenever\n\\n[1] wants. she recently started writing erotic novels\nbased on her real-life experiences. >\n<like: Sweets, alcohol>\n<hate: Spicy food>",
         "profile": ""
     },
     {
@@ -1078,7 +1078,7 @@
         "maxLevel": 99,
         "name": "Adele",
         "nickname": "Adele",
-        "note": "<Job: Yorozuya Manager><Age: 33 years old>\n<prf1:The owner of the daily necessities store\n``Yorozuya.'' A mother of two whose daughters are\n, Iris, and Aria. She likes talking to people and\noften gets deep into conversations while working.\n>\n<prf2: She is confused as she realizes that she is\nstarting to be attracted to the younger \\n[1].\nAlthough she wants to maintain her open\nrelationship, her body heats up when she remembers\nwhat she did with \\n[1]... >\n<prf3: Regardless of age, she decided to love\n\\n[1] for the rest of her life. she plans to use\nevery last egg of her own to conceive \\n[1]'s\nchild. she recently noticed that she gets the most\nexcited when she lets \\n[1] drink her own breast\nmilk. >\n<like: Mushrooms, milk, vegetables>\n<hate: spicy food>",
+        "note": "<job: Yorozuya Manager><age: 33 years old>\n<prf1: The owner of the daily necessities store\n\"Yorozuya\". A mother of two whose daughters Iris and\nAria. She likes talking to people and often gets deep\ninto conversations while working. >\n<prf2: She is confused as she realizes that she is\nstarting to be attracted to the young \\n[1]. Although\nshe wants to maintain her open relationship, her body\nheats up when she remembers what she did with \\n[1]...\n>\n<prf3: Regardless of age, she decided to love \\n[1] for\nthe rest of her life. she plans to use every last egg\nof her own to conceive \\n[1]'s child. she recently\nnoticed that she gets the most excited when she lets\n\\n[1] drink her own breast milk. >\n<like: Mushrooms, milk, vegetables>\n<hate: spicy food>",
         "profile": ""
     },
     {
@@ -1101,7 +1101,7 @@
         "maxLevel": 99,
         "name": "Aria",
         "nickname": "Aria",
-        "note": "<Job: Yorozuya Helper><Age: 1?years>\n<prf1: The second daughter of the daily\nnecessities store ``Yorozuya''. she is naughty and\nhates loose clothes. >\n<prf2: When she became pregnant with a child, she\nrealized the joy of being a woman. She likes being\nhugged while kissing. >\n<prf3: She says things like, ``Being a wife\ndoesn't suit me,'' but she doesn't seem to be\ncompletely offended. We don't miss kissing each\nother good morning and good night every day. >\n<like: Animal hair, meat, milk, spicy food>\n<hate: alcohol>",
+        "note": "<job: Yorozuya Helper><age: 16 years>\n<prf1: The second daughter of the daily necessities\nstore \"Yorozuya\". she is naughty and hates tight\nclothes. >\n<prf2: When she became pregnant with a child, she\nrealized the joy of being a woman. She likes being\nhugged while kissing. >\n<prf3: She says things like, \"Being a wife doesn't suit\nme\", but she doesn't seem to be completely offended. We\ndon't miss kissing each other good morning and good\nnight every day. >\n<like: animal fur, meat, milk, spicy food>\n<hate: alcohol>",
         "profile": ""
     },
     {
@@ -1124,7 +1124,7 @@
         "maxLevel": 99,
         "name": "Minya",
         "nickname": "Minya",
-        "note": "<Job: Sake Brewer><Age: 30 years old>\n<prf1: A woman who runs a sake brewery. Her fruit\nliquor, which has been passed down from generation\nto generation, has a good reputation and has\nbecome a popular product in other cities as well.\n>\n<prf2: She is seriously attracted to a younger\nman, but she is confused about herself. Although\nshe thinks she has enough children, she can't\nrefuse if someone invites her. Of course, if she\nhas a child, she plans to give birth to and raise\nit properly. >\n<prf3: I'm the type of person who does everything\nonce I fall in love. she decided to support her\nbeloved husband as her sister's wife for the rest\nof her life. Of course, she is also active in\nhaving children. >\n<like: cheese/alcohol/milk>\n<hate: sweets>",
+        "note": "<job: Sake Brewer><age: 30 years old>\n<prf1: A woman who runs a sake brewery. Her fruit\nliquor, which has been passed down from generation to\ngeneration, has a good reputation and has become a\npopular product in other cities as well. >\n<prf2: She is seriously attracted to a younger man, but\nshe is confused about herself. Although she thinks she\nhas enough children, she can't refuse if someone\ninvites her. Of course, if she has a child, she plans\nto give birth to and raise it properly. >\n<prf3: I'm the type of person who does everything once\nI fall in love. she decided to support her beloved\nhusband as her sister's wife for the rest of her life.\nOf course, she is also active in having children. >\n<like: cheese, alcohol, milk>\n<hate: sweets>",
         "profile": ""
     },
     {
@@ -1147,7 +1147,7 @@
         "maxLevel": 99,
         "name": "Katia",
         "nickname": "Katia",
-        "note": "<Job: village girl><Age: 1?years>\n<prf1: The daughter of a sake brewer. A little\ngirl. she is quite serious and works hard at her\njob. >\n<prf2: \\n[1] is someone she can rely on, and she\ntrusts him. Currently, my dream is to grow the\nfamily business with \\n[1]'s children. I have\ndecided that \\n[1] is the only person I can have a\nbaby with. >\n<prf3: I believe that being \\n[1]'s wife is the\ngreatest blessing in her life. I'm so happy with\nmy newlywed life. is seriously studying bed\ntechniques to satisfy her husband. >\n<like: Animal hair/milk/egg>\n<hate: mushroom>",
+        "note": "<job: village girl><age: 11 years>\n<prf1: The daughter of a sake brewer. A little girl.\nshe is quite serious and works hard at her job. >\n<prf2: \\n[1] is someone she can rely on, and she trusts\nhim. Currently, my dream is to grow the family business\nwith \\n[1]'s children. I have decided that \\n[1] is the\nonly person I can have a baby with. >\n<prf3: I believe that being \\n[1]'s wife is the\ngreatest blessing in her life. I'm so happy with my\nnewlywed life. is seriously studying bed techniques to\nsatisfy her husband. >\n<like: animal fur, milk, egg>\n<hate: mushroom>",
         "profile": ""
     },
     {
@@ -1170,7 +1170,7 @@
         "maxLevel": 99,
         "name": "Isabel",
         "nickname": "Isabel",
-        "note": "<Job: Resident knight><Age: 21 years old>\n<prf1: A resident knight who protects the village.\nSince it's a peaceful village, he has some free\ntime, but his hard-working personality means he\ndoesn't skimp on his work. >\n<prf2: She learned about her sexual pleasure in\n\\n[1]'s embrace. She was puzzled by her own sexual\ndesire, which she hadn't been aware of until now,\nbut she recently noticed that she feels refreshed\nwhen she does it herself before going to bed. >\n<prf3: \\n[1] Enjoying the peaceful time spent with\nhim. I learned about her happiness as a mother by\nhaving her child. She wants to protect the people\nshe cares about as a knight, mother, and wife. >\n<like: meat/fish/cheese>\n<hate: alcohol/fruit>",
+        "note": "<job: Resident knight><age: 21 years old>\n<prf1: A resident knight who protects the village.\nSince it's a peaceful village, he has some free time,\nbut his hard-working personality means he doesn't skimp\non his work. >\n<prf2: She learned about her sexual pleasure in \\n[1]'s\nembrace. She was puzzled by her own sexual desire,\nwhich she hadn't been aware of until now, but she\nrecently noticed that she feels refreshed when she does\nit herself before going to bed. >\n<prf3: \\n[1] Enjoying the peaceful time spent with him.\nI learned about her happiness as a mother by having her\nchild. She wants to protect the people she cares about\nas a knight, mother, and wife. >\n<like: Meat, fish, cheese>\n<hate: alcohol, fruit>",
         "profile": ""
     },
     {
@@ -1193,7 +1193,7 @@
         "maxLevel": 99,
         "name": "Natalie",
         "nickname": "Natalie",
-        "note": "<Job: Fisherman's Daughter> <Age: 19 years old>\n<prf1: Harry's adopted daughter. She was born into\nan aristocratic family, but due to various\ncircumstances, she and Harry now live in poverty.\n>\n<prf2: She finished paying off her debt and\nstarted her new life. From now on, she will work\nhard at fishing for the sake of her new life. she\nsees the hard-working and kind \\n[1] as her\nadoptive father and places her trust in him. >\n<prf3: \\n[1] loved me and I gained a happiness\nthat is more important than money or status. My\ncurrent dream is to have many children and create\na happy family. I believe that with the help of my\nhusband and adoptive father, I will be able to\ndefeat my opponent. >\n<like: fish/alcohol>\n<hate: cheese>",
+        "note": "<job: Fisherman's Daughter> <age: 19 years old>\n<prf1: Harry's adoptive daughter. She was born into an\naristocratic family, but due to various circumstances,\nshe and Harry now live in poverty. >\n<prf2: She finished paying off her debt and started her\nnew life. From now on, she will work hard at fishing\nfor the sake of her new life. she sees the hard-working\nand kind \\n[1] as her adoptive father and places her\ntrust in him. >\n<prf3: \\n[1] loved me and I gained a happiness that is\nmore important than money or status. My current dream\nis to have many children and create a happy family. I\nbelieve that with the help of my husband and adoptive\nfather, I will be able to defeat my opponent. >\n<like: Fish, alcohol>\n<hate: Cheese>",
         "profile": ""
     },
     {
@@ -1214,9 +1214,9 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 76,
-        "name": "Harry",
-        "nickname": "Harry",
-        "note": "<Job: Fisherman><Age: 66 years old>\n<prf1: Natalie's foster father. A lively old man\nwho works as a fisherman and doesn't show his age.\nAt the recommendation of his friend Gordon, he\nstarted living in a mountain village. >\n<prf2: Natalie's foster father. A lively old man\nwho works as a fisherman and doesn't show his age.\nAt the recommendation of his friend Gordon, he\nstarted living in a mountain village. >\n<prf3: Natalie's foster father. A lively old man\nwho works as a fisherman and doesn't show his age.\nAt the recommendation of his friend Gordon, he\nstarted living in a mountain village. >\n<like: alcohol, fish, spicy food>\n<hate: milk>",
+        "name": "harry",
+        "nickname": "harry",
+        "note": "<job: fisherman><age: 66 years old>\n<prf1: Natalie's foster father. A lively old man who\nworks as a fisherman and doesn't show his age. At the\nrecommendation of his friend Gordon, he started living\nin a mountain village. >\n<prf2: Natalie's foster father. A lively old man who\nworks as a fisherman and doesn't show his age. At the\nrecommendation of his friend Gordon, he started living\nin a mountain village. >\n<prf3: Natalie's foster father. A lively old man who\nworks as a fisherman and doesn't show his age. At the\nrecommendation of his friend Gordon, he started living\nin a mountain village. >\n<like: alcohol, fish, spicy food>\n<hate: milk>",
         "profile": ""
     },
     {
@@ -1239,7 +1239,7 @@
         "maxLevel": 76,
         "name": "Aleisha",
         "nickname": "Aleisha",
-        "note": "<Job: Chairman of Aleisha Shokai> <Age: 20 years\nold>\n<prf1: Chairman of Aleisha Chamber of Commerce.\nShe is steadily expanding her business with her\nability that belies her youth. >\n<prf2: She suddenly fell in love with \\n[1]'s\nmasculinity. I intended to use her body to drop\n\\n[1], but instead I ended up falling deeper...>\n<prf3: She gives up on monopolizing \\n[1] and\nbecomes one of her daughters-in-law and lives a\nhappy life. My body wouldn't have been able to\ntake on \\n[1]'s energy alone, so maybe this was\nbetter? I think so. >\n<like: cheese, raw food, meat, alcohol>\n<hate: spicy food>",
+        "note": "<job: Aleisha Shokai Owner> <age: 20 years old>\n<prf1: Chairman of Aleisha Chamber of Commerce. is\nsteadily expanding her business with her ability that\nbelies her youth. >\n<prf2: She suddenly fell in love with \\n[1]'s\nmasculinity. I intended to use her body to drop \\n[1],\nbut instead I ended up falling deeper...>\n<prf3: She gives up on monopolizing \\n[1] and becomes\none of his wife and lives a happy life. Her body\nwouldn't have been able to take on \\n[1]'s energy\nalone, so maybe this was better? I think so. >\n<like: Cheese, Raw food, Meat, Alcohol>\n<hate: Spicy food>",
         "profile": ""
     },
     {
@@ -1262,7 +1262,7 @@
         "maxLevel": 76,
         "name": "Elaine",
         "nickname": "Elaine",
-        "note": "<Job: Coffee Shop Master><Age: 23 years old>\n<prf1: The female master of Cafe Snowdrop. she\nmoved from another city and started a coffee shop.\nshe likes the laid-back village life. >\n<prf2: She spent time with \\n[1] and came to think\nthat it was okay to have a child. She knew the\nreal man, and she was reminded that she was a\nwoman after all. she likes being loved like a\nprincess in bed. >\n<prf3: I feel happy in a married life where the\ndays are calm and the nights are intense. She\nlikes intense child-making that will make you want\nto be devoured. I want to dress my grown child in\ncute clothes. >\n<like: eggs, milk, rice>\n<hate: sweets/animal hair>",
+        "note": "<job: Coffee shop master><age: 23 years old>\n<prf1: The female master of Cafe Snowdrop. she moved\nfrom another city and started a coffee shop. she likes\nthe laid-back village life. >\n<prf2: She spent time with \\n[1] and came to think that\nit was okay to have a child. She knew the real man, and\nshe was reminded that she was a woman after all. she\nlikes being loved like a princess in bed. >\n<prf3: I feel happy in a married life where the days\nare calm and the nights are intense. She likes intense\nchild-making that will make you want to be devoured. I\nwant to dress my grown child in cute clothes. >\n<like: eggs, milk, rice>\n<hate: sweets, animal fur>",
         "profile": ""
     },
     {
@@ -1285,7 +1285,7 @@
         "maxLevel": 76,
         "name": "Rosetta",
         "nickname": "Rosetta",
-        "note": "<Job: Coffee Shop Employee><Age: 23 years old>\n<prf1: The coffee shop clerk who followed Elaine.\nI have been best friends with Elaine since\nchildhood. she has repeatedly started and given up\non diets. >\n<prf2: \\n[1] was truly passionate about her body,\nand she felt an excitement like never before. Even\nif she doesn't want to have a baby, her womb aches\nevery night because she wants to have sex with\n\\n[1]. >\n<prf3: I vowed to love her for the rest of my life\nand decided to become her body and soul. Today,\nshe continues to hone her cooking skills for the\nsake of her beloved husband and children. she just\nwants him to stop massaging her belly when she's\nhaving babies. >\n<like: cheese, rice, sweets>\n<hate: raw food/animal hair>",
+        "note": "<job: Coffee shop employee><age: 23 years old>\n<prf1: The coffee shop clerk who followed Elaine. I\nhave been best friends with Elaine since childhood. she\nhas repeatedly started and given up on diets. >\n<prf2: \\n[1] was truly passionate about her body, and\nshe felt an excitement like never before. Even if she\ndoesn't want to have a baby, her womb aches every night\nbecause she wants to have sex with \\n[1]. >\n<prf3: I vowed to love her for the rest of my life and\ndecided to become her body and soul. Today, she\ncontinues to hone her cooking skills for the sake of\nher beloved husband and children. she just wants him to\nstop massaging her belly when she's having babies. >\n<like: Cheese, Rice, Sweets>\n<hate: Raw food, Animal fur>",
         "profile": ""
     },
     {
@@ -1308,7 +1308,7 @@
         "maxLevel": 76,
         "name": "Liliel",
         "nickname": "Liliel",
-        "note": "<Job: Sister><Age: 18 years old>\n<prf1: A sister who works at a church in a\nmountain village. she grew up in a church in\nanother city. she loves children and looks forward\nto taking care of \\n[1]'s children. >\n<prf2: He became honest about his love for her and\ndecided to have a child with \\n[1]. having learned\nabout her sexual pleasure, she began to do it\nevery night in her bed. By the way, even after\nlearning the truth about her adoptive mother, her\nrespect for her hasn't changed. >\n<prf3: She chose to be \\n[1]'s wife over being a\npriest. is spending her happy days surrounded by\nher beloved husband and children. Recently, she\nhas been positive that it would be nice to have\nsex with her husband just for fun. >\n<like: milk, mushrooms, vegetables>\n<hate: fish/alcohol>",
+        "note": "<job: Sister><age: 18 years old>\n<prf1: A sister who works at a church in a mountain\nvillage. she grew up in a church in another city. she\nloves children and looks forward to taking care of\n\\n[1]'s children. >\n<prf2: He became honest about his love for her and\ndecided to have a child with \\n[1]. having learned\nabout her sexual pleasure, she began to do it every\nnight in her bed. By the way, even after learning the\ntruth about her adoptive mother, her respect for her\nhasn't changed. >\n<prf3: She chose to be \\n[1]'s wife over being a\npriest. She spends her happy days surrounded by her\nbeloved husband and children. Recently, she has been\npositive that it would be nice to have sex with her\nhusband just for fun. >\n<like: Milk, Mushrooms, Vegetables>\n<hate: Fish, Alcohol>",
         "profile": ""
     },
     {
@@ -1331,7 +1331,7 @@
         "maxLevel": 76,
         "name": "Gordon",
         "nickname": "Gordon",
-        "note": "<Job: Carpenter><Age: 69 years old>\n<prf1: An old man who works as a carpenter. He\nlives with his daughter and granddaughter. He is\ncurrently in his 70s and is currently active. His\nmuscles never weaken. >\n<prf2: An old man who works as a carpenter. He\nlives with his daughter and granddaughter. He is\ncurrently in his 70s and is currently active. My\nmuscles never weaken. >\n<prf3: An old man who works as a carpenter. He\nlives with his daughter and granddaughter. He is\ncurrently in his 70s and is currently active. My\nmuscles never weaken. >\n<like: alcohol, rice, meat>\n<hate: sweet>",
+        "note": "<job: Carpenter><age: 69 years old>\n<prf1: An old man who works as a carpenter. He lives\nwith his daughter and grandson. He is currently in his\n70s and is currently active. His muscles never weaken.\n>\n<prf2: An old man who works as a carpenter. He lives\nwith his daughter and grandson. He is currently in his\n70s and is currently active. My muscles never weaken. >\n<prf3: An old man who works as a carpenter. He lives\nwith his daughter and grandson. He is currently in his\n70s and is currently active. My muscles never weaken. >\n<like: alcohol, rice, meat>\n<hate: sweet>",
         "profile": ""
     },
     {
@@ -1354,7 +1354,7 @@
         "maxLevel": 76,
         "name": "Cynthia",
         "nickname": "Cynthia",
-        "note": "<Job: Carpenter><Age: 26 years old>\n<prf1: Gordon's daughter. A strong man who helps\nher father with his work. She is said to be Kate's\nmother, but she is actually...>\n<prf2: She was planning to live as a mother for\nher older sister's orphaned child, Kate, but with\nthe support of those around her, she became\npregnant with \\n[1]'s child. she realized once\nagain how happy she is to become a mother. >\n<prf3: As a mother and a wife, I spend my days\nsavoring the happiness of a woman. she hopes to\nhave many more children with \\n[1] in the future.\nshe looks forward to watching Kate and her\nchildren grow up, and she'll be swinging the\nhammer with Gordon again today. >\n<like: meat/vegetables>\n<hate: fruit>",
+        "note": "<job: Carpenter><age: 26 years old>\n<prf1: Gordon's daughter. A strong woman who helps her\nfather with his work. She is said to be Kate's mother,\nbut she is actually...>\n<prf2: She was planning to live as a mother for her\nolder sister's orphaned child, Kate, but with the\nsupport of those around her, she became pregnant with\n\\n[1]'s child. she realized once again how happy she is\nto become a mother. >\n<prf3: As a mother and a wife, I spend my days savoring\nthe happiness of a woman. she hopes to have many more\nchildren with \\n[1] in the future. she looks forward to\nwatching Kate and her children grow up, and she'll be\nswinging the hammer with Gordon again today. >\n<like: Meat, vegetables>\n<hate: Fruit>",
         "profile": ""
     },
     {
@@ -1377,7 +1377,7 @@
         "maxLevel": 76,
         "name": "Kate",
         "nickname": "Kate",
-        "note": "<Job: Village Child><Age: 6 years old>\n<prf1: The youngest child in the village. who\nwants to follow in her grandfather's footsteps and\nbecome a carpenter. She is too young to have\nchildren. >\n<prf2: The youngest child in the village. who\nwants to follow in her grandfather's footsteps and\nbecome a carpenter. She is too young to have\nchildren. >\n<prf3: The youngest child in the village. who\nwants to follow in her grandfather's footsteps and\nbecome a carpenter. As expected, she is too young\nto have children. >\n<like: sweets, fruits, meat>\n<hate: alcohol/vegetables>",
+        "note": "<job: village child><age: 6 years old>\n<prf1: The youngest child in the village. who wants to\nfollow in her grandfather's footsteps and become a\ncarpenter. She is too young to have children. >\n<prf2: The youngest child in the village. who wants to\nfollow in her grandfather's footsteps and become a\ncarpenter. She is too young to have children. >\n<prf3: The youngest child in the village. who wants to\nfollow in her grandfather's footsteps and become a\ncarpenter. As expected, she is too young to have\nchildren. >\n<like: Sweets, Fruits, Meat>\n<hate: Alcohol, Vegetables>",
         "profile": "大工の家の子供。\n"
     },
     {
