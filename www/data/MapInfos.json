@@ -1,6 +1,4 @@
-[
-    null,
-    {
+[null, {
         "id": 1,
         "expanded": true,
         "name": "■■■ Ranch ■■■",
@@ -8,8 +6,7 @@
         "parentId": 0,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 2,
         "expanded": true,
         "name": "Home (back)",
@@ -17,8 +14,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 3,
         "expanded": true,
         "name": "ranch",
@@ -26,8 +22,7 @@
         "parentId": 1,
         "scrollX": 965,
         "scrollY": 601
-    },
-    {
+    }, {
         "id": 4,
         "expanded": false,
         "name": "3F",
@@ -35,8 +30,7 @@
         "parentId": 52,
         "scrollX": 811,
         "scrollY": 619
-    },
-    {
+    }, {
         "id": 5,
         "expanded": false,
         "name": "2F",
@@ -44,8 +38,7 @@
         "parentId": 52,
         "scrollX": 811,
         "scrollY": 621
-    },
-    {
+    }, {
         "id": 6,
         "expanded": false,
         "name": "for title",
@@ -53,8 +46,7 @@
         "parentId": 54,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 7,
         "expanded": true,
         "name": "one's home",
@@ -62,8 +54,7 @@
         "parentId": 1,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 8,
         "expanded": true,
         "name": "Home (Lv1,Lv2)",
@@ -71,8 +62,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 9,
         "expanded": false,
         "name": "Seeding room (pet)",
@@ -80,8 +70,7 @@
         "parentId": 80,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 10,
         "expanded": false,
         "name": "Home (Lv3)",
@@ -89,8 +78,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 11,
         "expanded": false,
         "name": "Home (Lv4)",
@@ -98,8 +86,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 12,
         "expanded": false,
         "name": "Home (Lv5)",
@@ -107,8 +94,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 13,
         "expanded": true,
         "name": "animal house",
@@ -116,8 +102,7 @@
         "parentId": 3,
         "scrollX": 811,
         "scrollY": 538
-    },
-    {
+    }, {
         "id": 14,
         "expanded": false,
         "name": "Seeding room",
@@ -125,8 +110,7 @@
         "parentId": 3,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 15,
         "expanded": true,
         "name": "egg house",
@@ -134,9 +118,7 @@
         "parentId": 3,
         "scrollX": 811,
         "scrollY": 638
-    },
-    null,
-    {
+    }, null, {
         "id": 17,
         "expanded": true,
         "name": "wife's private room",
@@ -144,8 +126,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 18,
         "expanded": true,
         "name": "01: Claire's room",
@@ -153,8 +134,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 19,
         "expanded": true,
         "name": "02: Lorna's room",
@@ -162,8 +142,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 20,
         "expanded": true,
         "name": "03: Mira's room",
@@ -171,8 +150,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 21,
         "expanded": true,
         "name": "04:Evie's room",
@@ -180,8 +158,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 22,
         "expanded": true,
         "name": "06:Iris's room",
@@ -189,8 +166,7 @@
         "parentId": 17,
         "scrollX": 543,
         "scrollY": 377.5
-    },
-    {
+    }, {
         "id": 23,
         "expanded": true,
         "name": "07:Adele's room",
@@ -198,8 +174,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 24,
         "expanded": true,
         "name": "08: Aria's room",
@@ -207,8 +182,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 25,
         "expanded": true,
         "name": "09: Minya's room",
@@ -216,8 +190,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 26,
         "expanded": true,
         "name": "10: Katia's room",
@@ -225,8 +198,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 27,
         "expanded": true,
         "name": "11: Isabel's room",
@@ -234,8 +206,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 28,
         "expanded": true,
         "name": "12: Natalie's room",
@@ -243,8 +214,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 29,
         "expanded": true,
         "name": "14: Aleisha's room",
@@ -252,8 +222,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 30,
         "expanded": true,
         "name": "15: Elaine's room",
@@ -261,8 +230,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 31,
         "expanded": true,
         "name": "16: Rosetta's room",
@@ -270,8 +238,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 32,
         "expanded": true,
         "name": "17: Liliel's room",
@@ -279,8 +246,7 @@
         "parentId": 17,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 33,
         "expanded": true,
         "name": "19: Cynthia's room",
@@ -288,8 +254,7 @@
         "parentId": 17,
         "scrollX": 543,
         "scrollY": 377.5
-    },
-    {
+    }, {
         "id": 34,
         "expanded": true,
         "name": "■■■ Town ■■■",
@@ -297,8 +262,7 @@
         "parentId": 0,
         "scrollX": 543,
         "scrollY": 377.5
-    },
-    {
+    }, {
         "id": 35,
         "expanded": true,
         "name": "▼Town (center)----------------",
@@ -306,8 +270,7 @@
         "parentId": 34,
         "scrollX": 944,
         "scrollY": 738
-    },
-    {
+    }, {
         "id": 36,
         "expanded": true,
         "name": "village chief's house",
@@ -315,8 +278,7 @@
         "parentId": 35,
         "scrollX": 811,
         "scrollY": 494
-    },
-    {
+    }, {
         "id": 37,
         "expanded": true,
         "name": "Various shops",
@@ -324,8 +286,7 @@
         "parentId": 35,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 38,
         "expanded": true,
         "name": "2F",
@@ -333,8 +294,7 @@
         "parentId": 37,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 39,
         "expanded": true,
         "name": "monster farm",
@@ -342,8 +302,7 @@
         "parentId": 35,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 40,
         "expanded": false,
         "name": "Aleisha's house",
@@ -351,8 +310,7 @@
         "parentId": 35,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 41,
         "expanded": true,
         "name": "Minya's house",
@@ -360,8 +318,7 @@
         "parentId": 35,
         "scrollX": 811,
         "scrollY": 590
-    },
-    {
+    }, {
         "id": 42,
         "expanded": true,
         "name": "▼Town (east side)----------------",
@@ -369,8 +326,7 @@
         "parentId": 34,
         "scrollX": 811,
         "scrollY": 742
-    },
-    {
+    }, {
         "id": 43,
         "expanded": true,
         "name": "coffee shop",
@@ -378,8 +334,7 @@
         "parentId": 42,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 44,
         "expanded": false,
         "name": "back room",
@@ -387,8 +342,7 @@
         "parentId": 43,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 45,
         "expanded": false,
         "name": "harry's house",
@@ -396,8 +350,7 @@
         "parentId": 42,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 46,
         "expanded": true,
         "name": "▼Town (west side)----------------",
@@ -405,8 +358,7 @@
         "parentId": 34,
         "scrollX": 811,
         "scrollY": 982
-    },
-    {
+    }, {
         "id": 47,
         "expanded": true,
         "name": "gordon's house",
@@ -414,8 +366,7 @@
         "parentId": 46,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 48,
         "expanded": true,
         "name": "2F",
@@ -423,8 +374,7 @@
         "parentId": 47,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 49,
         "expanded": true,
         "name": "hospital",
@@ -432,8 +382,7 @@
         "parentId": 46,
         "scrollX": 811,
         "scrollY": 494
-    },
-    {
+    }, {
         "id": 50,
         "expanded": false,
         "name": "B1",
@@ -441,8 +390,7 @@
         "parentId": 49,
         "scrollX": 811,
         "scrollY": 542
-    },
-    {
+    }, {
         "id": 51,
         "expanded": true,
         "name": "▼Mountaintop plaza--------------",
@@ -450,8 +398,7 @@
         "parentId": 34,
         "scrollX": 1301,
         "scrollY": 742
-    },
-    {
+    }, {
         "id": 52,
         "expanded": true,
         "name": "church",
@@ -459,8 +406,7 @@
         "parentId": 53,
         "scrollX": 811,
         "scrollY": 638
-    },
-    {
+    }, {
         "id": 53,
         "expanded": true,
         "name": "▼Mountain----------------------",
@@ -468,8 +414,7 @@
         "parentId": 34,
         "scrollX": 811,
         "scrollY": 742
-    },
-    {
+    }, {
         "id": 54,
         "expanded": true,
         "name": "■■■ Other ■■■",
@@ -477,8 +422,7 @@
         "parentId": 0,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 55,
         "expanded": true,
         "name": "For OP",
@@ -486,8 +430,7 @@
         "parentId": 54,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 56,
         "expanded": true,
         "name": "reminiscence room",
@@ -495,9 +438,7 @@
         "parentId": 7,
         "scrollX": 819,
         "scrollY": 466
-    },
-    null,
-    {
+    }, null, {
         "id": 58,
         "expanded": false,
         "name": "cityscape 1",
@@ -505,9 +446,7 @@
         "parentId": 62,
         "scrollX": 819,
         "scrollY": 466
-    },
-    null,
-    {
+    }, null, {
         "id": 60,
         "expanded": true,
         "name": "monster hut",
@@ -515,8 +454,7 @@
         "parentId": 39,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 61,
         "expanded": false,
         "name": "adele event 3",
@@ -524,8 +462,7 @@
         "parentId": 62,
         "scrollX": 811,
         "scrollY": 494
-    },
-    {
+    }, {
         "id": 62,
         "expanded": true,
         "name": "city",
@@ -533,8 +470,7 @@
         "parentId": 54,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 63,
         "expanded": true,
         "name": "Orchard",
@@ -542,8 +478,7 @@
         "parentId": 41,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 64,
         "expanded": true,
         "name": "wedding venue",
@@ -551,8 +486,7 @@
         "parentId": 54,
         "scrollX": 811,
         "scrollY": 638
-    },
-    {
+    }, {
         "id": 65,
         "expanded": false,
         "name": "Overall view",
@@ -560,8 +494,7 @@
         "parentId": 54,
         "scrollX": 3244,
         "scrollY": 2200
-    },
-    {
+    }, {
         "id": 66,
         "expanded": true,
         "name": "Aleisha event 3",
@@ -569,8 +502,7 @@
         "parentId": 62,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 67,
         "expanded": false,
         "name": "Aleisha event 5",
@@ -578,8 +510,7 @@
         "parentId": 62,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 68,
         "expanded": true,
         "name": "Elaine event 4",
@@ -587,8 +518,7 @@
         "parentId": 62,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 69,
         "expanded": false,
         "name": "coffee shop",
@@ -596,8 +526,7 @@
         "parentId": 68,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 70,
         "expanded": false,
         "name": "boutique",
@@ -605,8 +534,7 @@
         "parentId": 68,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 71,
         "expanded": false,
         "name": "bench",
@@ -614,8 +542,7 @@
         "parentId": 68,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 72,
         "expanded": true,
         "name": "rosetta event",
@@ -623,8 +550,7 @@
         "parentId": 62,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 73,
         "expanded": false,
         "name": "On the way home",
@@ -632,8 +558,7 @@
         "parentId": 72,
         "scrollX": 819,
         "scrollY": 466
-    },
-    {
+    }, {
         "id": 74,
         "expanded": false,
         "name": "Inside the carriage",
@@ -641,10 +566,7 @@
         "parentId": 72,
         "scrollX": 819,
         "scrollY": 466
-    },
-    null,
-    null,
-    {
+    }, null, null, {
         "id": 77,
         "expanded": true,
         "name": "Overall view",
@@ -652,8 +574,7 @@
         "parentId": 65,
         "scrollX": 3546,
         "scrollY": 2009
-    },
-    {
+    }, {
         "id": 78,
         "expanded": true,
         "name": "▼Common bath----------------",
@@ -661,9 +582,7 @@
         "parentId": 34,
         "scrollX": 819,
         "scrollY": 466
-    },
-    null,
-    {
+    }, null, {
         "id": 80,
         "expanded": true,
         "name": "pet kennel",
@@ -671,8 +590,7 @@
         "parentId": 3,
         "scrollX": 811,
         "scrollY": 538
-    },
-    {
+    }, {
         "id": 81,
         "expanded": true,
         "name": "well",
@@ -680,8 +598,7 @@
         "parentId": 3,
         "scrollX": 811,
         "scrollY": 494
-    },
-    {
+    }, {
         "id": 82,
         "expanded": false,
         "name": "debug room",

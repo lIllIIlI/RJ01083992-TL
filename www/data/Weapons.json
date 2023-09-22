@@ -1,17 +1,13 @@
-[
-    null,
-    {
+[null, {
         "id": 1,
         "animationId": 6,
         "description": "[Agricultural tools] Tools for tilling the fields.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -20,31 +16,19 @@
         "iconIndex": 7,
         "name": "Mulberry",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            10,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 10, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 2,
         "animationId": 6,
         "description": "[Agricultural tools] Used for harvesting crops and\nremoving unnecessary crops.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -53,31 +37,19 @@
         "iconIndex": 8,
         "name": "sickle",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            10,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 10, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 3,
         "animationId": 1,
         "description": "[Agricultural tools] Water the field.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -86,31 +58,19 @@
         "iconIndex": 9,
         "name": "watering can",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            10,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 10, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 4,
         "animationId": 0,
         "description": "[Livestock tool] A tool for squeezing milk from\ncow-type monsters.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -119,31 +79,19 @@
         "iconIndex": 10,
         "name": "milking machine",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 5,
         "animationId": 0,
         "description": "[Livestock tools] A tool for shearing the wool from\nsheep and rabbit monsters.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -152,31 +100,19 @@
         "iconIndex": 11,
         "name": "shaving set",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 6,
         "animationId": 0,
         "description": "[Livestock tool] A tool that stimulates bird-type\nmonsters to induce ovulation.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -185,31 +121,19 @@
         "iconIndex": 13,
         "name": "egg retrieval gloves",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 7,
         "animationId": 0,
         "description": "[Livestock tool] A tool that pleases monsters with\nhigh-speed vibration.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -218,31 +142,19 @@
         "iconIndex": 12,
         "name": "Caretaker",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 8,
         "animationId": 6,
         "description": "[Special] A ring used to propose marriage to a loved\none.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -251,31 +163,19 @@
         "iconIndex": 288,
         "name": "wedding ring",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            10,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 10, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 9,
         "animationId": 0,
         "description": "[Agricultural Tools] Liquid fertilizer that makes crops\ngrow abundantly.\nIt has a hair growth effect when used on the human\nbody.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -284,31 +184,19 @@
         "iconIndex": 14,
         "name": "magic fertilizer",
         "note": "Hide quantity",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 2
-    },
-    {
+    }, {
         "id": 10,
         "animationId": 0,
         "description": "[Food] Food for the demon beasts.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -317,31 +205,19 @@
         "iconIndex": 15,
         "name": "monster food",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 11,
         "animationId": 0,
         "description": "[Food] A snack that serves as a reward for your pet.\nIf you give one, you can ask for a job for 6 days.",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -350,31 +226,19 @@
         "iconIndex": 15,
         "name": "pet treats",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 12,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -383,31 +247,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 13,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -416,31 +268,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 14,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -449,31 +289,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 15,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -482,31 +310,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 16,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -515,31 +331,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 17,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -548,31 +352,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 18,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -581,31 +373,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 19,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -614,31 +394,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 20,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -647,31 +415,19 @@
         "iconIndex": 0,
         "name": "▼Results below",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 21,
         "animationId": 0,
         "description": "Achievements not obtained",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -680,31 +436,19 @@
         "iconIndex": 56,
         "name": "---",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 22,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -713,31 +457,19 @@
         "iconIndex": 311,
         "name": "spring blessings",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 23,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -746,31 +478,19 @@
         "iconIndex": 311,
         "name": "summer blessings",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 24,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -779,31 +499,19 @@
         "iconIndex": 311,
         "name": "autumn blessings",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 25,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -812,31 +520,19 @@
         "iconIndex": 311,
         "name": "winter blessings",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 26,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -845,31 +541,19 @@
         "iconIndex": 311,
         "name": "Egg fetish",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 27,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -878,31 +562,19 @@
         "iconIndex": 311,
         "name": "milking fetish",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 28,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -911,31 +583,19 @@
         "iconIndex": 311,
         "name": "shaved fetish",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 29,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -944,31 +604,19 @@
         "iconIndex": 311,
         "name": "egg hut harem",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 30,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -977,31 +625,19 @@
         "iconIndex": 311,
         "name": "animal house harem",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 31,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1010,31 +646,19 @@
         "iconIndex": 311,
         "name": "pet kennel harem",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 32,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1043,31 +667,19 @@
         "iconIndex": 311,
         "name": "big rancher",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 33,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1076,31 +688,19 @@
         "iconIndex": 311,
         "name": "popular person in the village",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 34,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1109,31 +709,19 @@
         "iconIndex": 311,
         "name": "good cook",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 35,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1142,31 +730,19 @@
         "iconIndex": 311,
         "name": "Graduation from virginity",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 36,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1175,31 +751,19 @@
         "iconIndex": 311,
         "name": "playboy",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 37,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1208,31 +772,19 @@
         "iconIndex": 311,
         "name": "Yarichin",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 38,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1241,31 +793,19 @@
         "iconIndex": 311,
         "name": "Just a stallion",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 39,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1274,31 +814,19 @@
         "iconIndex": 311,
         "name": "Be fruitful and multiply.",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 40,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1307,31 +835,19 @@
         "iconIndex": 311,
         "name": "The baby boom has arrived",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 41,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1340,31 +856,19 @@
         "iconIndex": 311,
         "name": "child-rearing village",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 42,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1373,31 +877,19 @@
         "iconIndex": 311,
         "name": "Absolute love",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 43,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1406,31 +898,19 @@
         "iconIndex": 311,
         "name": "Village of Bote Belly",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 44,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1439,31 +919,19 @@
         "iconIndex": 311,
         "name": "Good luck",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 45,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1472,31 +940,19 @@
         "iconIndex": 311,
         "name": "lord of harem",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 46,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1505,31 +961,19 @@
         "iconIndex": 311,
         "name": "Good attentiveness",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 47,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1538,31 +982,19 @@
         "iconIndex": 311,
         "name": "Complete★Strategy!",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 48,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1571,31 +1003,19 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 49,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1604,31 +1024,19 @@
         "iconIndex": 312,
         "name": "You lolicons!",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
-    },
-    {
+    }, {
         "id": 50,
         "animationId": 0,
         "description": "",
         "etypeId": 1,
-        "traits": [
-            {
+        "traits": [{
                 "code": 31,
                 "dataId": 1,
                 "value": 0
-            },
-            {
+            }, {
                 "code": 22,
                 "dataId": 0,
                 "value": 0
@@ -1637,16 +1045,7 @@
         "iconIndex": 0,
         "name": "",
         "note": "",
-        "params": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "params": [0, 0, 0, 0, 0, 0, 0, 0],
         "price": 0,
         "wtypeId": 0
     }
